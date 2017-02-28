@@ -1,7 +1,7 @@
 ## Aldona Biewska
 
 
-Wybrany zbiór danych: [Crimes in Chicago from 2001 to present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+Wybrany zbiór danych: [Open Crime and Policing Data in England, Wales and Northern Ireland](https://data.police.uk/data/)
 
 (zaliczenie)
 
