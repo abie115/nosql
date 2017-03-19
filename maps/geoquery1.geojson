@@ -1,0 +1,3252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.046546,
+          51.305942
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Rosecroft Close",
+        "lsoa_name": "Bromley 042C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.050276,
+          51.31495
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Jail Lane",
+        "lsoa_name": "Bromley 042C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.037225,
+          51.312192
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Church Road",
+        "lsoa_name": "Bromley 042D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.051925,
+          51.322305
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Bird House Lane",
+        "lsoa_name": "Bromley 042B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07259,
+          51.267155
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Green",
+        "lsoa_name": "Sevenoaks 013C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07259,
+          51.267155
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Green",
+        "lsoa_name": "Sevenoaks 013C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.027913,
+          51.279008
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Pilgrims Lane",
+        "lsoa_name": "Tandridge 012D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123591,
+          51.286961
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near M25",
+        "lsoa_name": "Sevenoaks 013A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123591,
+          51.286961
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near M25",
+        "lsoa_name": "Sevenoaks 013A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123415,
+          51.322631
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hunters Walk",
+        "lsoa_name": "Sevenoaks 008D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123415,
+          51.322631
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hunters Walk",
+        "lsoa_name": "Sevenoaks 008D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.115619,
+          51.34065
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Stonehouse Road",
+        "lsoa_name": "Bromley 037A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.115619,
+          51.34065
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Stonehouse Road",
+        "lsoa_name": "Bromley 037A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.08981,
+          51.351554
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Petrol Station",
+        "lsoa_name": "Bromley 037D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.111734,
+          51.347042
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Rosenheath Close",
+        "lsoa_name": "Bromley 037A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.111734,
+          51.347042
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Rosenheath Close",
+        "lsoa_name": "Bromley 037A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.089536,
+          51.352468
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near High Street",
+        "lsoa_name": "Bromley 037D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.036752,
+          51.24933
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Ridlands Rise",
+        "lsoa_name": "Tandridge 006B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.113064,
+          51.349725
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Brimstone Close",
+        "lsoa_name": "Bromley 037A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.074788,
+          51.356633
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Church Road",
+        "lsoa_name": "Bromley 036D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.02558,
+          51.2501
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Chapel Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014042,
+          51.254301
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014042,
+          51.254301
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014042,
+          51.254301
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014042,
+          51.254301
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014042,
+          51.254301
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014042,
+          51.254301
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014042,
+          51.254301
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Road",
+        "lsoa_name": "Tandridge 006A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.090104,
+          51.356423
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Green Farm Close",
+        "lsoa_name": "Bromley 037C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.102198,
+          51.354237
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near High Beeches",
+        "lsoa_name": "Bromley 037E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.092396,
+          51.356607
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Glentrammon Close",
+        "lsoa_name": "Bromley 037C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13358,
+          51.342788
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 008C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13358,
+          51.342788
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 008C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.163866,
+          51.305361
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Ivy House Lane",
+        "lsoa_name": "Sevenoaks 008A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.163866,
+          51.305361
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Ivy House Lane",
+        "lsoa_name": "Sevenoaks 008A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.066836,
+          51.358986
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Pleasant View Place",
+        "lsoa_name": "Bromley 036D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09619,
+          51.357592
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Atkinson Close",
+        "lsoa_name": "Bromley 035D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.105917,
+          51.35578
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Spring Gardens",
+        "lsoa_name": "Bromley 037E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.090065,
+          51.359347
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Warren Avenue",
+        "lsoa_name": "Bromley 037C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01062,
+          51.335299
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Homestead Way",
+        "lsoa_name": "Croydon 036D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.068117,
+          51.361607
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Brickfield Farm Gardens",
+        "lsoa_name": "Bromley 036B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009713,
+          51.336687
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Milne Park West",
+        "lsoa_name": "Croydon 036A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.166987,
+          51.287227
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Baden Powell Road",
+        "lsoa_name": "Sevenoaks 011B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.166987,
+          51.287227
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Baden Powell Road",
+        "lsoa_name": "Sevenoaks 011B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.004025,
+          51.343029
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Vulcan Way",
+        "lsoa_name": "Croydon 032E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.004806,
+          51.257546
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Pedestrian Subway",
+        "lsoa_name": "Tandridge 006C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.004806,
+          51.257546
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Pedestrian Subway",
+        "lsoa_name": "Tandridge 006C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.012618,
+          51.263174
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Gordons Way",
+        "lsoa_name": "Tandridge 006D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01223,
+          51.337242
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Matthew'S Gardens",
+        "lsoa_name": "Croydon 036D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.094103,
+          51.362548
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Bromley 035C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.006925,
+          51.248829
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Wolfs Hill",
+        "lsoa_name": "Tandridge 007B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1724,
+          51.285849
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hawthorn Lane",
+        "lsoa_name": "Sevenoaks 011F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1724,
+          51.285849
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hawthorn Lane",
+        "lsoa_name": "Sevenoaks 011F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.059611,
+          51.365714
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Hospital",
+        "lsoa_name": "Bromley 036C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.033303,
+          51.285988
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Clare Court",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.036286,
+          51.289347
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near High Drive",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.036286,
+          51.289347
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near High Drive",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.036286,
+          51.289347
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near High Drive",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.112574,
+          51.362171
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Ampleforth Close",
+        "lsoa_name": "Bromley 032E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.006848,
+          51.245081
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Hurstlands",
+        "lsoa_name": "Tandridge 007A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.006848,
+          51.245081
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Hurstlands",
+        "lsoa_name": "Tandridge 007A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.017348,
+          51.340072
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Overbury Crescent",
+        "lsoa_name": "Croydon 032D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.054132,
+          51.232551
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Dairy Lane",
+        "lsoa_name": "Sevenoaks 013D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03367,
+          51.27772
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Northdown Road",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.092292,
+          51.367248
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Wayne Close",
+        "lsoa_name": "Bromley 035A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.130536,
+          51.35735
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Bucks Cross Road",
+        "lsoa_name": "Bromley 037A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.066672,
+          51.368737
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Lovibonds Avenue",
+        "lsoa_name": "Bromley 033D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.105021,
+          51.365374
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Durley Gardens",
+        "lsoa_name": "Bromley 035E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.052361,
+          51.36808
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Elm Walk",
+        "lsoa_name": "Bromley 033D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.01014,
+          51.241391
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Pollards Oak Crescent",
+        "lsoa_name": "Tandridge 007A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.01014,
+          51.241391
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Pollards Oak Crescent",
+        "lsoa_name": "Tandridge 007A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.040293,
+          51.289208
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Station Road",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.043433,
+          51.368569
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Park/Open Space",
+        "lsoa_name": "Bromley 033C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.019996,
+          51.34294
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near North Downs Road",
+        "lsoa_name": "Croydon 032D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.041418,
+          51.286699
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Park View Road",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.018942,
+          51.344415
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Parkway",
+        "lsoa_name": "Croydon 032D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.177425,
+          51.276565
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Kippington Close",
+        "lsoa_name": "Sevenoaks 011D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.177425,
+          51.276565
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Kippington Close",
+        "lsoa_name": "Sevenoaks 011D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.176735,
+          51.271686
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Chichester Drive",
+        "lsoa_name": "Sevenoaks 011D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.176735,
+          51.271686
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Chichester Drive",
+        "lsoa_name": "Sevenoaks 011D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.184279,
+          51.285934
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Bradbourne Vale Road",
+        "lsoa_name": "Sevenoaks 011F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.184279,
+          51.285934
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Bradbourne Vale Road",
+        "lsoa_name": "Sevenoaks 011F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.042499,
+          51.319605
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Old Farleigh Road",
+        "lsoa_name": "Tandridge 012C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013624,
+          51.351493
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Frimley Crescent",
+        "lsoa_name": "Croydon 030D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.184836,
+          51.284683
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Harrison Way",
+        "lsoa_name": "Sevenoaks 012E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.184836,
+          51.284683
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Harrison Way",
+        "lsoa_name": "Sevenoaks 012E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01367,
+          51.352096
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Frimley Close",
+        "lsoa_name": "Croydon 032A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.179104,
+          51.271758
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Kippington Road",
+        "lsoa_name": "Sevenoaks 011D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.179104,
+          51.271758
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Kippington Road",
+        "lsoa_name": "Sevenoaks 011D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.007616,
+          51.244267
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Tanhouse Road",
+        "lsoa_name": "Tandridge 007D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04953,
+          51.294937
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Camp Road",
+        "lsoa_name": "Tandridge 004F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.188097,
+          51.286313
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Sackville Close",
+        "lsoa_name": "Sevenoaks 010F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.188097,
+          51.286313
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Sackville Close",
+        "lsoa_name": "Sevenoaks 010F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.101034,
+          51.372748
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Spur Road",
+        "lsoa_name": "Bromley 029D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.010593,
+          51.234378
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Meadowlands",
+        "lsoa_name": "Tandridge 007C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.079872,
+          51.224596
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Pootings Road",
+        "lsoa_name": "Sevenoaks 013D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.079872,
+          51.224596
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Pootings Road",
+        "lsoa_name": "Sevenoaks 013D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.190437,
+          51.31288
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near A225",
+        "lsoa_name": "Sevenoaks 008E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.190437,
+          51.31288
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near A225",
+        "lsoa_name": "Sevenoaks 008E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.099333,
+          51.37419
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Bromley 028C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.114528,
+          51.371543
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Wilmington Avenue",
+        "lsoa_name": "Bromley 032C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192996,
+          51.294306
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Moor Road",
+        "lsoa_name": "Sevenoaks 010D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192996,
+          51.294306
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Moor Road",
+        "lsoa_name": "Sevenoaks 010D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192996,
+          51.294306
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Moor Road",
+        "lsoa_name": "Sevenoaks 010D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192996,
+          51.294306
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Moor Road",
+        "lsoa_name": "Sevenoaks 010D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.090071,
+          51.376532
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Bancroft Gardens",
+        "lsoa_name": "Bromley 028E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194102,
+          51.293745
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Swanzy Road",
+        "lsoa_name": "Sevenoaks 010D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194102,
+          51.293745
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Swanzy Road",
+        "lsoa_name": "Sevenoaks 010D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.103954,
+          51.375007
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Horsecroft Close",
+        "lsoa_name": "Bromley 029D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.101971,
+          51.375933
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Further/Higher Educational Building",
+        "lsoa_name": "Bromley 028C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.055844,
+          51.303352
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near Tandridge Road",
+        "lsoa_name": "Tandridge 002A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.055629,
+          51.309463
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near The Green",
+        "lsoa_name": "Tandridge 012B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.196203,
+          51.313122
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Station Approach",
+        "lsoa_name": "Sevenoaks 009D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.196203,
+          51.313122
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Station Approach",
+        "lsoa_name": "Sevenoaks 009D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.021175,
+          51.356225
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Pedestrian Subway",
+        "lsoa_name": "Croydon 030A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.021175,
+          51.356225
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Pedestrian Subway",
+        "lsoa_name": "Croydon 030A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.081867,
+          51.379709
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Kingswood Close",
+        "lsoa_name": "Bromley 031B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194572,
+          51.281344
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Barrack Corner",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194572,
+          51.281344
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Barrack Corner",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.034269,
+          51.346949
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Silverwood Close",
+        "lsoa_name": "Croydon 034C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192779,
+          51.275613
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Vine",
+        "lsoa_name": "Sevenoaks 012E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192779,
+          51.275613
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Vine",
+        "lsoa_name": "Sevenoaks 012E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000911,
+          51.367392
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Bromley 034B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192669,
+          51.274203
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 012D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192669,
+          51.274203
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 012D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.117284,
+          51.375531
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Carew Way",
+        "lsoa_name": "Bromley 032B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199998,
+          51.289858
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Mill Lane",
+        "lsoa_name": "Sevenoaks 010E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199998,
+          51.289858
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Mill Lane",
+        "lsoa_name": "Sevenoaks 010E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199998,
+          51.289858
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Mill Lane",
+        "lsoa_name": "Sevenoaks 010E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199998,
+          51.289858
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Mill Lane",
+        "lsoa_name": "Sevenoaks 010E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192325,
+          51.270603
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Shambles",
+        "lsoa_name": "Sevenoaks 012F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192325,
+          51.270603
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Shambles",
+        "lsoa_name": "Sevenoaks 012F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.102649,
+          51.379446
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near High Street",
+        "lsoa_name": "Bromley 029D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.110303,
+          51.378085
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Ramsden Road",
+        "lsoa_name": "Bromley 029E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194891,
+          51.274809
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Chartway",
+        "lsoa_name": "Sevenoaks 012F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194891,
+          51.274809
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Chartway",
+        "lsoa_name": "Sevenoaks 012F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.092756,
+          51.380882
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Irvine Way",
+        "lsoa_name": "Bromley 028D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.158486,
+          51.36128
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parkgate Road",
+        "lsoa_name": "Sevenoaks 005A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.158486,
+          51.36128
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parkgate Road",
+        "lsoa_name": "Sevenoaks 005A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.173416,
+          51.248437
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near White House Road",
+        "lsoa_name": "Sevenoaks 012B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.173416,
+          51.248437
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near White House Road",
+        "lsoa_name": "Sevenoaks 012B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.193065,
+          51.269573
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near High Street",
+        "lsoa_name": "Sevenoaks 012F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.193065,
+          51.269573
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near High Street",
+        "lsoa_name": "Sevenoaks 012F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.102958,
+          51.380232
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Chislehurst Road",
+        "lsoa_name": "Bromley 028D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.197946,
+          51.278133
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Sports/Recreation Area",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.197946,
+          51.278133
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Sports/Recreation Area",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.011769,
+          51.37481
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Station Hill",
+        "lsoa_name": "Bromley 034E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.099922,
+          51.381086
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near New Road",
+        "lsoa_name": "Bromley 028D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.197955,
+          51.277117
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hollybush Close",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.197955,
+          51.277117
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hollybush Close",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.197955,
+          51.277117
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hollybush Close",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.197955,
+          51.277117
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Hollybush Close",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.162579,
+          51.360342
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 003A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.162579,
+          51.360342
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 003A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.162579,
+          51.360342
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 003A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.162579,
+          51.360342
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Parking Area",
+        "lsoa_name": "Sevenoaks 003A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.203174,
+          51.289096
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Seal Road",
+        "lsoa_name": "Sevenoaks 010E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.203174,
+          51.289096
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Seal Road",
+        "lsoa_name": "Sevenoaks 010E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.202149,
+          51.284763
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Nicolson Way",
+        "lsoa_name": "Sevenoaks 010B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.202149,
+          51.284763
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Nicolson Way",
+        "lsoa_name": "Sevenoaks 010B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.104769,
+          51.381188
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near High Street",
+        "lsoa_name": "Bromley 028A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.00866,
+          51.375672
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Kemsing Close",
+        "lsoa_name": "Bromley 034E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.021563,
+          51.379578
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near George Lane",
+        "lsoa_name": "Bromley 034D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.041922,
+          51.383362
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Cobham Close",
+        "lsoa_name": "Bromley 026A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.201977,
+          51.277572
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Paddocks",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.201977,
+          51.277572
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near The Paddocks",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.205334,
+          51.28509
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Wildernesse Mount",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.205334,
+          51.28509
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Wildernesse Mount",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.005669,
+          51.375957
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Prickley Wood",
+        "lsoa_name": "Bromley 034E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04983,
+          51.342668
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Owl Close",
+        "lsoa_name": "Croydon 034G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118843,
+          51.381276
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Mungo Park Way",
+        "lsoa_name": "Bromley 029B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.124924,
+          51.379781
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Waldenhurst Road",
+        "lsoa_name": "Bromley 029A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.205614,
+          51.281055
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Quarry Hill",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.205614,
+          51.281055
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Quarry Hill",
+        "lsoa_name": "Sevenoaks 010C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.116929,
+          51.381859
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Finucane Drive",
+        "lsoa_name": "Bromley 029B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.003255,
+          51.374284
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Mount Court",
+        "lsoa_name": "Bromley 030E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.045953,
+          51.386421
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Broom Close",
+        "lsoa_name": "Bromley 026B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07033,
+          51.387719
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Lakeswood Road",
+        "lsoa_name": "Bromley 025C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.042819,
+          51.386089
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Turpington Lane",
+        "lsoa_name": "Bromley 026A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.113725,
+          51.383743
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Northfield Avenue",
+        "lsoa_name": "Bromley 029B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.076601,
+          51.388139
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Fairway",
+        "lsoa_name": "Bromley 022C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010502,
+          51.372834
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Theatre/Concert Hall",
+        "lsoa_name": "Bromley 030H"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.073545,
+          51.388589
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near West Approach",
+        "lsoa_name": "Bromley 025D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.102202,
+          51.386315
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Lockesley Drive",
+        "lsoa_name": "Bromley 023A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03336,
+          51.239315
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Surrey Police",
+        "Location": "On or near The Walk",
+        "lsoa_name": "Tandridge 006E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.116055,
+          51.384088
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Chelsfield Road",
+        "lsoa_name": "Bromley 029B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.061019,
+          51.210999
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Haxted Place",
+        "lsoa_name": "Sevenoaks 014B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.061019,
+          51.210999
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Hampshire Constabulary",
+        "Location": "On or near Haxted Place",
+        "lsoa_name": "Sevenoaks 014B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.098046,
+          51.387532
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Oakdene Road",
+        "lsoa_name": "Bromley 023D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.067308,
+          51.324846
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near Ansley Close",
+        "lsoa_name": "Croydon 039B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.105435,
+          51.386914
+        ]
+      },
+      "properties": {
+        "date": "2017-01",
+        "crime_type": "Burglary",
+        "reported_by": "Metropolitan Police Service",
+        "Location": "On or near East Drive",
+        "lsoa_name": "Bromley 023A"
+      }
+    }
+  ]
+}
