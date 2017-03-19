@@ -1,7 +1,7 @@
 ## Aldona Biewska
 
 
-Wybrany zbiór danych: [Open Crime Data in UK 07-12.2016](https://data.police.uk/data/)
+Wybrany zbiór danych: [Open Crime Data in UK 11-12.16,01.17](https://data.police.uk/data/)
 
 (zaliczenie)
 
@@ -28,17 +28,17 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 
 Import danych:
 ```
-powershell "Measure-Command{mongoimport -d baza -c crimes --type csv --file ukcrimes11-12-01.csv --headerline}"
+powershell "Measure-Command{mongoimport -d baza -c crimes --type csv --file ukcrimes.csv --headerline}"
 ```
 Czas: 54s
 
-Liczba zaimportowanych obiektów
+Liczba zaimportowanych obiektów:
 ```
 db.crimes.count()
 1472074
 ```
 ### Czyszczenie danych
-Usuwam, rekordy w których brak współrzędnych
+Usuwam rekordy w których brak współrzędnych:
 ```
 db.crimes.remove( { "Latitude":"" } )
 db.crimes.remove( { "Longitude":"" } )
@@ -104,16 +104,16 @@ db.crimes.find(
            "$maxDistance": 10000
         }
      }
-  }
-)
+   }
+ )
 ```
 Przekształcam na obiekty GeoJSON:
 ```
 type geoqueryp1.json |  findstr /v "_id" | jq {type:\"FeatureCollection\",features:.} > geoquery1.geojson
 ```
-[Mapa1](https://github.com/abie115/nosql/maps/geoquery1.geojson)
+[Mapa1](https://github.com/abie115/nosql/tree/master/maps/geoquery1.geojson)
 
-Zapytanie z  $geoWithin. 1000 lokalizacji przestępstw na danym obszarze pieciokata.
+Zapytanie z  $geoWithin. 1000 lokalizacji przestępstw na danym obszarze czworokąta.
 ```
  db.crimes.find(
     {
@@ -144,13 +144,13 @@ Zapytanie z  $geoWithin. 1000 lokalizacji przestępstw na danym obszarze pieciok
         }
      }
   }
-)
+).limit(100)
 ```
 Przekształcam na obiekty GeoJSON:
 ```
 type geoqueryp2.json |  findstr /v "_id" | jq {type:\"FeatureCollection\",features:.} > geoquery2.geojson
 ```
-[Mapa2](https://github.com/abie115/nosql/maps/geoquery2.geojson)
+[Mapa2](https://github.com/abie115/nosql/tree/master/maps/geoquery2.geojson)
 
 Zapytanie z  $geoIntersects. Lokalizacja przestępstw na przecięciu między między wybranymi 3 punktami,które tworzą proste.
 ```
@@ -177,11 +177,11 @@ Zapytanie z  $geoIntersects. Lokalizacja przestępstw na przecięciu między mi�
            }
         }
      }
-}   
-).
+  }   
+)
 ```
 Przekształcam na obiekty GeoJSON:
 ```
 type geoqueryp3.json |  findstr /v "_id" | jq {type:\"FeatureCollection\",features:.} > geoquery3.geojson
 ```
-[Mapa3](https://github.com/abie115/nosql/maps/geoquery3.geojson)
+[Mapa3](https://github.com/abie115/nosql/tree/master/maps/geoquery3.geojson)
