@@ -1,0 +1,325 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Violence and sexual offences",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Violence and sexual offences",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-12",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Other theft",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Violence and sexual offences",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Other theft",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-12",
+				"crime_type": "Other theft",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Other theft",
+				"lsoa_name": "Birmingham 138A",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.901387,
+					52.476218
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Vehicle crime",
+				"lsoa_name": "Birmingham 135C",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.900241,
+					52.475237
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Violence and sexual offences",
+				"lsoa_name": "Birmingham 135C",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.900241,
+					52.475237
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-12",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 135C",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.900241,
+					52.475237
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Criminal damage and arson",
+				"lsoa_name": "Birmingham 135C",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.900241,
+					52.475237
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2017-01",
+				"crime_type": "Other theft",
+				"lsoa_name": "Birmingham 135C",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.900241,
+					52.475237
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Birmingham 135C",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.900241,
+					52.475237
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"crime_type": "Robbery",
+				"lsoa_name": "Birmingham 135C",
+				"reported_by": "West Midlands Police"
+			},
+			"geometry": {
+				"coordinates": [
+					-1.900241,
+					52.475237
+				],
+				"type": "Point"
+			}
+		}
+	]
+}

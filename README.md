@@ -23,6 +23,9 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 | Baza danych           | TODO |
 
 ## Przedstawienie danych
+
+Dane znajdują się w kilku folderach po kilkadziesiąt .csv przy pomocy [merge.bat](https://github.com/abie115/nosql/tree/master/scripts/merge.bat) scaliłam je w jeden csv.
+
 ```
 {
 	"_id" : ObjectId("58d00a06adf75638ca295a14"),
@@ -41,6 +44,129 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 	"month" : "2016-11"
 }
 ```
+## Elasticsearch
+Do zaimportowania danych skorzystałam z narzędzia Logstash.
+
+Tworzę indeks baza:
+```
+curl -XDELETE localhost:9200/mojabaza
+```
+Dodaję mappings z pliku [baza.mappings](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/baza.mappings)
+```
+curl -s -XPUT localhost:9200/mojabaza --data-binary @baza.mappings
+```
+Następnie uruchamiam [logstash.conf](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/logstash.conf) wraz z odpowiednią konfiguracja
+```
+logstash -f logstash.conf
+```
+ Sprawdzam liczbę zaimportowanych obiektów:
+
+```
+ curl -XGET 'http://localhost:9200/mojabaza/_count'
+ {"count":1446646,"_shards":{"total":5,"successful":5,"failed":0}}
+```
+Pod Windowsem do zapytan należy użyć " zamiast '  oraz \\" zamiast ".
+
+Jsony przed przekstałceniem do geoJSON znajdują się [tu](https://github.com/abie115/nosql/tree/master/other/elasticsearch).
+
+* Zapytanie z geo_bounding_box. Lokalizacja przestępstw przy pomocy punktów podanych jako współrzędne. Dodatkowo wyświetla tylko przestępstwa typu "Public Order".
+
+```
+curl -XGET "http://localhost:9200/mojabaza/_search?size=3000&pretty=1" -d"
+{
+    \"query\": {
+        \"bool\": {
+            \"must\": {
+               \"match\": { \"crime_type\": \"Public order\" }
+            },
+           \"filter\" : {
+                \"geo_bounding_box\" : {
+                    \"geometry.coordinates\" : {
+                        \"top_left\" : [-3.0899047851562496,53.564375142037896],
+                        \"bottom_right\" : [ -2.801513671875,53.33374330585105]
+                    }
+                }
+            }
+        }
+    }
+}" | jq .hits.hits > geoe1.json
+ ```
+Przekształcam jsona na obiekty GeoJSON przy pomocy [skryptu](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/togeoJSONes.js):
+```
+node togeoJSONes.js geoe1.json mapka1_es.geojson
+```
+[Mapa1](https://github.com/abie115/nosql/tree/master/maps/elasticsearch/mapka1_es.geojson)
+
+* Zapytanie z geo_distance. Lokalizacja przestępstw w odległości 0.5km od Lancaster [-2.7998800,54.0464900].
+
+ ```
+ curl -XGET "http://localhost:9200/mojabaza/_search?size=3000&pretty=1" -d"
+{
+     \"query\": {
+        \"bool\": {
+            \"must\": {
+               \"match_all\": {}
+            },
+            \"filter\" : {
+                \"geo_distance\" : {
+                    \"distance\" : \"0.5km\",
+                    \"geometry.coordinates\" : [-2.7998800,54.0464900]
+                }
+            }
+        }
+    }
+}" | jq .hits.hits > geoe2.json
+ ```
+ 
+Przekształcam jsona na obiekty GeoJSON przy pomocy [skryptu](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/togeoJSONes.js):
+```
+node togeoJSONes.js geoe2.json mapka2_es.geojson
+```
+[Mapa2](https://github.com/abie115/nosql/tree/master/maps/elasticsearch/mapka2_es.geojson)
+
+* Zapytanie z geo_polygon. Lokalizacja 20 przestępstw na zadanym obszarze, posortowane wg określonego punktu.
+
+``` 
+ curl -XGET "http://localhost:9200/mojabaza/_search?size=20&pretty=1" -d"
+{
+    \"query\": {
+        \"bool\" : {
+            \"must\" : {
+                \"match_all\": { }
+            },
+            \"filter\" : {
+                \"geo_polygon\" : {
+                    \"geometry.coordinates\" : {
+                        \"points\" : [
+				[-1.9116210937499998,52.546295697522886],
+				[-2.17803955078125,52.37895253000267],
+				[-1.77703857421875,52.449314140869696]
+                        ]
+                    }
+                }
+            }
+        }
+    },
+  \"sort\": [
+    {
+      \"_geo_distance\": {
+        \"geometry.coordinates\" : [-1.900634765625,52.47608904123904],
+        \"order\":         \"asc\",
+        \"unit\":          \"km\", 
+        \"distance_type\": \"plane\" 
+      }
+    }
+  ]
+}"
+| jq .hits.hits > geoe3.json
+ ```
+ 
+Przekształcam jsona na obiekty GeoJSON przy pomocy [skryptu](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/togeoJSONes.js):
+```
+node togeoJSONes.js geoe3.json mapka3_es.geojson
+```
+[Mapa3](https://github.com/abie115/nosql/tree/master/maps/elasticsearch/mapka3_es.geojson)
+
 ## Mongodb
 
 Import danych:
@@ -99,7 +225,7 @@ Dodaje geoindeks:
 db.crimes.ensureIndex({"geometry" : "2dsphere"})
 ```
 
-Zapytanie z $near. Lokalizacje przestępstw w kategorii "Burglary" w styczniu 2017, w odległosci 10000 od Londynu [0.07,51.30]
+* Zapytanie z $near. Lokalizacje przestępstw w kategorii "Burglary" w styczniu 2017, w odległosci 10000 od Londynu [0.07,51.30]
 ```
 db.crimes.find({
 		"month": "2017-01",
@@ -128,7 +254,7 @@ node togeoJSON.js geom1.json mapka1.geojson
 ```
 [Mapa1](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka1.geojson)
 
-Zapytanie z  $geoWithin. 1000 lokalizacji przestępstw na danym obszarze czworokąta.
+* Zapytanie z  $geoWithin. 1000 lokalizacji przestępstw na danym obszarze czworokąta.
 ```
 db.crimes.find({
 		geometry: {
@@ -172,7 +298,7 @@ node togeoJSON.js geom2.json mapka2.geojson
 ```
 [Mapa2](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka2.geojson)
 
-Zapytanie z  $geoIntersects. Lokalizacja przestępstw na przecięciu między między wybranymi 3 punktami,które tworzą proste.
+* Zapytanie z  $geoIntersects. Lokalizacja przestępstw na przecięciu między między wybranymi 3 punktami,które tworzą proste.
 ```
 db.crimes.find({
 		geometry: {

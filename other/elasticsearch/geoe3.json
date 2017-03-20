@@ -1,0 +1,502 @@
+[
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMTOkysWiidK81yuH",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:29.030Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYsaysWiidK8yIL5",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Violence and sexual offences",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:09.993Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMTOkysWiidK81ytg",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:29.028Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMTOkysWiidK81yt8",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:29.030Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMTRgysWiidK81yuU",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:29.205Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYsaysWiidK8yIL7",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Violence and sexual offences",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:09.993Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtHMjjysWiidK8z-Zz",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:06:10.995Z",
+      "month": "2016-12",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMTRgysWiidK81yvC",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Other theft",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:29.207Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYsaysWiidK8yILz",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Violence and sexual offences",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:09.993Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYk2ysWiidK8yIHx",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:09.507Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYk2ysWiidK8yIJK",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Other theft",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:09.509Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtHMnlysWiidK8z-a_",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Other theft",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:06:11.240Z",
+      "month": "2016-12",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMTRgysWiidK81yu-",
+    "_score": null,
+    "_source": {
+      "city": "On or near Suffolk Place",
+      "crime_type": "Other theft",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:29.207Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.901387,
+          52.476218
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 138A"
+    },
+    "sort": [
+      0.08496447204664709
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYSfysWiidK8yIAR",
+    "_score": null,
+    "_source": {
+      "city": "On or near Pedestrian Subway",
+      "crime_type": "Vehicle crime",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:08.324Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.900241,
+          52.475237
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 135C"
+    },
+    "sort": [
+      0.10448661404119321
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMTDVysWiidK81yns",
+    "_score": null,
+    "_source": {
+      "city": "On or near Pedestrian Subway",
+      "crime_type": "Violence and sexual offences",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:28.313Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.900241,
+          52.475237
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 135C"
+    },
+    "sort": [
+      0.10448661404119321
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtHMRPysWiidK8z-Pg",
+    "_score": null,
+    "_source": {
+      "city": "On or near Pedestrian Subway",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:06:09.810Z",
+      "month": "2016-12",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.900241,
+          52.475237
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 135C"
+    },
+    "sort": [
+      0.10448661404119321
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMS_oysWiidK81ylp",
+    "_score": null,
+    "_source": {
+      "city": "On or near Pedestrian Subway",
+      "crime_type": "Criminal damage and arson",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:28.084Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.900241,
+          52.475237
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 135C"
+    },
+    "sort": [
+      0.10448661404119321
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtMS_oysWiidK81yl6",
+    "_score": null,
+    "_source": {
+      "city": "On or near Pedestrian Subway",
+      "crime_type": "Other theft",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T19:28:28.084Z",
+      "month": "2017-01",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.900241,
+          52.475237
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 135C"
+    },
+    "sort": [
+      0.10448661404119321
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYOtysWiidK8yH93",
+    "_score": null,
+    "_source": {
+      "city": "On or near Pedestrian Subway",
+      "crime_type": "Anti-social behaviour",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:08.091Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.900241,
+          52.475237
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 135C"
+    },
+    "sort": [
+      0.10448661404119321
+    ]
+  },
+  {
+    "_index": "mojabaza",
+    "_type": "crimes",
+    "_id": "AVrtCYOtysWiidK8yH-6",
+    "_score": null,
+    "_source": {
+      "city": "On or near Pedestrian Subway",
+      "crime_type": "Robbery",
+      "type": "crimes",
+      "@timestamp": "2017-03-20T18:45:08.093Z",
+      "month": "2016-11",
+      "reported_by": "West Midlands Police",
+      "geometry": {
+        "coordinates": [
+          -1.900241,
+          52.475237
+        ],
+        "type": "Point"
+      },
+      "lsoa_name": "Birmingham 135C"
+    },
+    "sort": [
+      0.10448661404119321
+    ]
+  }
+]
