@@ -117,7 +117,7 @@ db.crimes.find({
 		_id: 0
 	}).toArray();
 ```
-Komenda w pliku [printjson1.js](https://github.com/abie115/nosql/tree/master/scripts/mongo/printjson1.js) i zapisuje do pliku [.json](https://github.com/abie115/nosql/tree/master/other/geom1.json.js)
+Komenda w pliku [printjson1.js](https://github.com/abie115/nosql/tree/master/scripts/mongo/printjson1.js) i zapisuje do pliku [.json](https://github.com/abie115/nosql/tree/master/other/geom1.json)
 ```
 mongo --quiet printjson1.js > geom1.json
 ```
@@ -161,7 +161,7 @@ db.crimes.find({
 		_id: 0
 	}).limit(100).toArray()
 ```
-Komenda w pliku [printjson2.js](https://github.com/abie115/nosql/tree/master/scripts/mongo/printjson2.js) i zapisuje do pliku [.json](https://github.com/abie115/nosql/tree/master/other/geom2.json.js)
+Komenda w pliku [printjson2.js](https://github.com/abie115/nosql/tree/master/scripts/mongo/printjson2.js) i zapisuje do pliku [.json](https://github.com/abie115/nosql/tree/master/other/geom2.json)
 ```
 mongo --quiet printjson2.js > geom2.json
 ```
@@ -187,7 +187,7 @@ db.crimes.find({
 		_id: 0
 	}).toArray()
 ```
-Komenda w pliku [printjson3.js](https://github.com/abie115/nosql/tree/master/scripts/mongo/printjson3.js) i zapisuje do pliku [.json](https://github.com/abie115/nosql/tree/master/other/geom3.json.js)
+Komenda w pliku [printjson3.js](https://github.com/abie115/nosql/tree/master/scripts/mongo/printjson3.js) i zapisuje do pliku [.json](https://github.com/abie115/nosql/tree/master/other/geom3.json)
 ```
 mongo --quiet printjson3.js > geom3.json
 ```
@@ -196,4 +196,4 @@ Przekształcam na obiekty GeoJSON za pomocą [skryptu](https://github.com/abie11
 ```
 node togeoJSON.js geom3.json mapka3.geojson
 ```
-[Mapa3](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka2.geojson)
+[Mapa3](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka3.geojson)
