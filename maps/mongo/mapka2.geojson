@@ -1,0 +1,1706 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Nutfield Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "North Yorkshire Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.410686,
+					54.311856
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Ballygowan Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.872428,
+					54.577761
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Pinley Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.286149,
+					54.341261
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Kilmore Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.95704,
+					54.598663
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Rosebery Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.905173,
+					54.588899
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Jennymount Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.9234,
+					54.617436
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Woodburn Crescent",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.779428,
+					54.501552
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Haypark Gardens",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.919964,
+					54.5722
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Dunclug Gardens",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.271332,
+					54.883619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Kilmuir Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.796263,
+					54.588411
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Austin Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.409219,
+					54.353422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Loughbrickland Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.167857,
+					54.237721
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.957997,
+					54.669463
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Fairhill Grove",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.753572,
+					54.643394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Seymour Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.037355,
+					54.514025
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Ormeau Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.923238,
+					54.585967
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Model Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.815749,
+					54.713614
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Belfast Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.814448,
+					54.712692
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Ballynorthland Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.753721,
+					54.49262
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Townsend Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.269502,
+					54.346243
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Shandon Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.320279,
+					54.59667
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Jervis Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.449422,
+					54.420062
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Meadowvale",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.259944,
+					54.856791
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Union Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.512919,
+					55.069364
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Fairview Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.81681,
+					54.418147
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Shannon Court",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.94628,
+					54.610117
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Albertbridge Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.894963,
+					54.597267
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Ozone Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.512727,
+					55.069056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Ardmonagh Gardens",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.989386,
+					54.590122
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Woodside View",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.030235,
+					54.557019
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.520205,
+					55.164955
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Glen River Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.21248,
+					54.595492
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Stiles Farm",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.187817,
+					54.716578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.903647,
+					54.591802
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.949097,
+					54.583668
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Oak Grove",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.289466,
+					54.347678
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Castle Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.791596,
+					54.725395
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Iveagh Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.961805,
+					54.590325
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Second Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.354777,
+					54.184857
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Carnmoney Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.957396,
+					54.671852
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.024748,
+					54.557002
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Haypark Gardens",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.923013,
+					54.572773
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Hillsborough Parade",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.894697,
+					54.587145
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.904448,
+					54.666239
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Meadowvale",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.051692,
+					54.496701
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Invernook Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.874324,
+					54.609665
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Gortin Crescent",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.721363,
+					54.529511
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Antrim Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.954923,
+					54.668935
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Wesley Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.0354,
+					54.514533
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near St. Patricks Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.671279,
+					54.346414
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Orritor Crescent",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.747066,
+					54.647936
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Rosetta Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.91236,
+					54.57241
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.646522,
+					54.344935
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Beechway",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.737384,
+					54.650934
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Old Manse Green",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.247318,
+					54.344602
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.985215,
+					54.583089
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Rosses Lane",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.296812,
+					54.849597
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Drumard Grange",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.073495,
+					54.51591
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Pinewood Manor",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.036973,
+					54.457172
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Hightown Court",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.962258,
+					54.669508
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Mountsandel Manor",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.656354,
+					55.116738
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Main Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.215194,
+					54.620464
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Talbot Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.696199,
+					54.59759
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.953557,
+					54.695471
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near The Mall East",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.651847,
+					54.350439
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Camross Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.923018,
+					54.661087
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Lawnakilla Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.632114,
+					54.361803
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Market Square",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.042678,
+					54.510895
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Callan Crescent",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.658982,
+					54.348596
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Academy Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.927784,
+					54.603997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.92743,
+					54.582939
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Trostan Gardens",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.984976,
+					54.575097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Meeting House Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.515408,
+					55.068083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.220001,
+					54.620275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Beechgrove Gardens",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.947879,
+					54.689032
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Rectory Park",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.339655,
+					54.466437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Hill Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.043086,
+					54.507856
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.813146,
+					54.713252
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.615654,
+					54.754796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Old Lurgan Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.412067,
+					54.430664
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Cidercourt Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.218148,
+					54.620885
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.917997,
+					54.594404
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Donegall Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.934882,
+					54.589437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Steeple Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.19963,
+					54.729116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Riverside",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.484155,
+					54.873058
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near University Square Mews",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.93528,
+					54.58585
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Cameron Court",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.999062,
+					54.754506
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Donore Crescent",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.185575,
+					54.711549
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Coyles Place",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.925568,
+					54.590059
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Lurgan Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.275256,
+					54.359021
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Kilburn Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.954092,
+					54.588622
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Earlford Heights",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.947948,
+					54.69658
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Oranmore Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.958603,
+					54.598968
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Belfast Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.814448,
+					54.712692
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Meelmore Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.313276,
+					54.611938
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Main Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.215194,
+					54.620464
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near The Mall West",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.648768,
+					54.346802
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Alexandra Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.51047,
+					55.073763
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Summerhill Mews",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.017227,
+					54.553653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11",
+				"location": "On or near Ashfield Court",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "",
+				"reported_by": "Police Service of Northern Ireland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.933869,
+					54.622269
+				]
+			}
+		}
+
+	]
+}

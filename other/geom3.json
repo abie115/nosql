@@ -1,0 +1,377 @@
+[
+	{
+		"crime_id" : "d8ea35ea454b2f4f4cf0ac70651b2bc9adc1c9b27fe26e649d6b791628e58e8e",
+		"crime_type" : "Vehicle crime",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002A",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.50941,
+				51.405481
+			]
+		},
+		"location" : "On or near Holly Walk",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "b974e0cb688e7f911026ba8cb2fcb566aa5993cb62d34df282563b8eeff6d5fe",
+		"crime_type" : "Criminal damage and arson",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "bc714167111f48cd84c3eba22f4afabbb6890a308c19505ea7192bf0cb6078a4",
+		"crime_type" : "Criminal damage and arson",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "dec16102b3ec1c12d1c33f94e5abf9b340bfffb662d2da5cc7be009d24cd5f23",
+		"crime_type" : "Criminal damage and arson",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "b934186ff0b2d3749e168b0cd10b1246d41d3888a9d43d93fef52049380dfbd1",
+		"crime_type" : "Other crime",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 001C",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.506762,
+				51.409116
+			]
+		},
+		"location" : "On or near Queens Road",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "982c1f790aac1a1b1c588c09d0a798b9d916918c8a49085d882e5e4aca5612c1",
+		"crime_type" : "Vehicle crime",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2016-11"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "186dac2b9a810da782b4f185d58440dd06f5b7d13e682453cf3291b192016174",
+		"crime_type" : "Violence and sexual offences",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2016-12"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2017-01"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2017-01"
+	},
+	{
+		"crime_id" : "",
+		"crime_type" : "Anti-social behaviour",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2017-01"
+	},
+	{
+		"crime_id" : "b403ba0878bfc9e6fa52d81cf7d12e7756b09c7a5a3eb5c399198f38cc2c8f8f",
+		"crime_type" : "Public order",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2017-01"
+	},
+	{
+		"crime_id" : "21a5e4642c8fd2e069519314be6f4f80a128a995d9010c652d9900ab1aeaed8e",
+		"crime_type" : "Public order",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2017-01"
+	},
+	{
+		"crime_id" : "f03f7873449eec9cf41173afcf0152335af4d90f1acab412771e5290460b7259",
+		"crime_type" : "Violence and sexual offences",
+		"reported_by" : "Avon and Somerset Constabulary",
+		"lsoa_name" : "Bath and North East Somerset 002B",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [
+				-2.497371,
+				51.412906
+			]
+		},
+		"location" : "On or near Temple Street",
+		"month" : "2017-01"
+	}
+]
