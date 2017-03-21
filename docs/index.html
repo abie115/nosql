@@ -115,13 +115,11 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">R Notebook</h1>
-
 </div>
 
 
 <div id="aldona-biewska" class="section level2">
-<h2>Aldona Biewska</h2>
+<h3>Aldona Biewska</h3>
 <p>Wybrany zbiór danych: <a href="https://data.police.uk/data/">Open Crime Data in UK 11-12.16,01.17</a></p>
 
 <div id="przedstawienie-danych" class="section level3">
@@ -458,7 +456,7 @@ postgres=# SELECT * FROM my.crimeuk LIMIT 1;
  </code></pre>
 <div id="agregacja-1" class="section level4">
 <h4>Agregacja 1</h4>
-<p>3 najczęśćiej popełniane przestępstwa:</p>
+<p>5 najczęściej popełnianych przestępstw:</p>
 <pre class="sql"><code>                                                           
 postgres=# SELECT crime_type, COUNT(*) AS count FROM my.crimeuk  GROUP BY crime_type ORDER BY count DESC LIMIT 5;
           crime_type          | count
@@ -481,7 +479,7 @@ ggplot( data = df, aes( crime,count,group = 1 )) + geom_bar(stat=&quot;identity&
 </div>
 <div id="agregacja-2" class="section level4">
 <h4>Agregacja 2</h4>
-<p>Na jakich współrzędnych geograficznych była największa liczba przestępstw.</p>
+<p>Współrzędne geograficzne w których zlokalizowano najwięcej przestępstw:</p>
 <pre class="sql"><code>postgres=# SELECT lon, lat, COUNT(*) AS count FROM my.crimeuk GROUP BY lon,lat ORDER BY count DESC LIMIT 1;
     lon    |   lat    | count
 -----------+----------+-------
@@ -490,7 +488,7 @@ ggplot( data = df, aes( crime,count,group = 1 )) + geom_bar(stat=&quot;identity&
 </div>
 <div id="agregacja-3" class="section level4">
 <h4>Agregacja 3</h4>
-<p>Liczba zgłoszonych przestępstw przez Surrey Police na przestrzeni 3 miesięcy.</p>
+<p>Liczba zgłoszonych przestępstw przez Surrey Police na przestrzeni 3 miesięcy:</p>
 <pre class="sql"><code>
 postgres=# SELECT TO_CHAR(month, 'YYYY-MM'), count(*) FROM my.crimeuk WHERE reported_by LIKE 'Surrey Police' GROUP BY month;
  to_char | count

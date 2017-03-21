@@ -449,7 +449,7 @@ postgres=# SELECT * FROM my.crimeuk LIMIT 1;
 
 #### Agregacja 1
 
-3 najczęśćiej popełniane przestępstwa:
+5 najczęściej popełnianych przestępstw:
 
 ```sql
                                                            
@@ -480,7 +480,7 @@ ggplot( data = df, aes( crime,count,group = 1 )) + geom_bar(stat="identity")
 
 #### Agregacja 2
 
-Na jakich współrzędnych geograficznych była największa liczba przestępstw.
+Współrzęne geograficzne w których zlokalizowano najwięcej przestępstw.
 
 ```sql
 postgres=# SELECT lon, lat, COUNT(*) AS count FROM my.crimeuk GROUP BY lon,lat ORDER BY count DESC LIMIT 1;
