@@ -3,6 +3,8 @@
 
 Wybrany zbiór danych: [Open Crime Data in UK 11-12.16,01.17](https://data.police.uk/data/)
 
+[Zadania](https://abie115.github.io/nosql/)
+
 (zaliczenie)
 
 - [ ] EDA
@@ -69,7 +71,7 @@ Pod Windowsem do zapytan należy użyć " zamiast '  oraz \\" zamiast ".
 
 Jsony przed przekstałceniem do geoJSON znajdują się [tu](https://github.com/abie115/nosql/tree/master/other/elasticsearch).
 
-* Zapytanie z geo_bounding_box. Lokalizacja przestępstw przy pomocy punktów podanych jako współrzędne. Dodatkowo wyświetla tylko przestępstwa typu "Public Order".
+* Zapytanie z *geo_bounding_box*. Lokalizacja przestępstw przy pomocy punktów podanych jako współrzędne. Dodatkowo wyświetla tylko przestępstwa typu "Public Order".
 
 ```
 curl -XGET "http://localhost:9200/mojabaza/_search?size=3000&pretty=1" -d"
@@ -97,7 +99,7 @@ node togeoJSONes.js geoe1.json mapka1_es.geojson
 ```
 [Mapa1](https://github.com/abie115/nosql/tree/master/maps/elasticsearch/mapka1_es.geojson)
 
-* Zapytanie z geo_distance. Lokalizacja przestępstw w odległości 0.5km od Lancaster [-2.7998800,54.0464900].
+* Zapytanie z *geo_distance*. Lokalizacja przestępstw w odległości 0.5km od Lancaster [-2.7998800,54.0464900].
 
  ```
  curl -XGET "http://localhost:9200/mojabaza/_search?size=3000&pretty=1" -d"
@@ -124,7 +126,7 @@ node togeoJSONes.js geoe2.json mapka2_es.geojson
 ```
 [Mapa2](https://github.com/abie115/nosql/tree/master/maps/elasticsearch/mapka2_es.geojson)
 
-* Zapytanie z geo_polygon. Lokalizacja 20 przestępstw na zadanym obszarze, posortowane wg określonego punktu.
+* Zapytanie z *geo_polygon*. Lokalizacja 20 przestępstw na zadanym obszarze, posortowane wg określonego punktu.
 
 ``` 
  curl -XGET "http://localhost:9200/mojabaza/_search?size=20&pretty=1" -d"
@@ -225,7 +227,7 @@ Dodaje geoindeks:
 db.crimes.ensureIndex({"geometry" : "2dsphere"})
 ```
 
-* Zapytanie z $near. Lokalizacje przestępstw w kategorii "Burglary" w styczniu 2017, w odległosci 10000 od Londynu [0.07,51.30]
+* Zapytanie z *$near*. Lokalizacje przestępstw w kategorii "Burglary" w styczniu 2017, w odległosci 10000 od Londynu [0.07,51.30]
 ```
 db.crimes.find({
 		"month": "2017-01",
@@ -254,7 +256,7 @@ node togeoJSON.js geom1.json mapka1.geojson
 ```
 [Mapa1](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka1.geojson)
 
-* Zapytanie z  $geoWithin. 1000 lokalizacji przestępstw na danym obszarze czworokąta.
+* Zapytanie z  *$geoWithin*. 1000 lokalizacji przestępstw na danym obszarze czworokąta.
 ```
 db.crimes.find({
 		geometry: {
@@ -298,7 +300,7 @@ node togeoJSON.js geom2.json mapka2.geojson
 ```
 [Mapa2](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka2.geojson)
 
-* Zapytanie z  $geoIntersects. Lokalizacja przestępstw na przecięciu między między wybranymi 3 punktami,które tworzą proste.
+* Zapytanie z  *$geoIntersects*. Lokalizacja przestępstw na przecięciu między wybranymi 3 punktami,które tworzą proste.
 ```
 db.crimes.find({
 		geometry: {
