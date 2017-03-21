@@ -15,13 +15,14 @@ Wybrany zbiór danych: [Open Crime Data in UK 11-12.16,01.17](https://data.polic
 
 Informacje o komputerze na którym były wykonywane obliczenia:
 
-| Nazwa                 | Wartosć    |
+| Nazwa                 | Wartość    |
 |-----------------------|------------|
-| System operacyjny     | TODO |    
-| Procesor              | TODO |
-| Pamięć                | TODO |
-| Dysk                  | TODO |
-| Baza danych           | TODO |
+| System operacyjny     | Windows 7 x64 |    
+| Procesor              | Intel Core i5-2450M |
+| Ilość rdzeni          | 4 |
+| Pamięć                | 6GB |
+| Dysk                  | 700 GB HDD |
+| Baza danych           |            |
 
 ### Przedstawienie danych
 
@@ -32,7 +33,7 @@ Dane zawierają pola:
 |Crime ID|Month|Reported by|Falls within|Longitude|Latitude|Location|LSOA code|LSOA name|Crime type|Last outcome category|Context|
 |--------|-----|-----------|------------|---------|--------|--------|---------|---------|----------|---------------------|-------|
 
-Pominełam pole 'Crime ID' jako, że część danych go nie zawiera.
+Pominełam  m.in. pole 'Crime ID' jako, że część danych go nie zawiera.
 Wybrane pola i przykładowy rekord:
 
 ```bash
@@ -67,7 +68,7 @@ Dodaję mappings z pliku [baza.mappings](https://github.com/abie115/nosql/tree/m
 ```bash
 curl -s -XPUT localhost:9200/mojabaza --data-binary @baza.mappings
 ```
-Następnie uruchamiam [logstash.conf](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/logstash.conf) wraz z odpowiednią konfiguracja, która zmienia nazwy pól, dodaje typ, indeks oraz dostosowuje do późniejszego wyszukiwania przez współrzędne - pole geometry z współrzędnymi.
+Następnie uruchamiam [logstash.conf](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/logstash.conf) wraz z odpowiednią konfiguracją, która zmienia nazwy pól, dodaje typ, indeks oraz dostosowuje do późniejszego wyszukiwania przez współrzędne - pole geometry z współrzędnymi.
 
 ```bash
 logstash -f logstash.conf
@@ -78,16 +79,16 @@ logstash -f logstash.conf
  curl -XGET 'http://localhost:9200/mojabaza/_count'
  {"count":1446646,"_shards":{"total":5,"successful":5,"failed":0}}
 ```
-Pod Windowsem do zapytań należy użyć " zamiast '  oraz \\" zamiast ".
+Dla systemu Windows do zapytań należy użyć " zamiast '  oraz \\" zamiast ".
 
-Jsony przed przekstałceniem do geoJSON znajdują się [tu](https://github.com/abie115/nosql/tree/master/other/elasticsearch).
+Jsony przed przekształceniem do geoJSON znajdują się [tu](https://github.com/abie115/nosql/tree/master/other/elasticsearch).
 
-* Zapytanie z *geo_bounding_box*. Lokalizacja przestępstw przy pomocy punktów podanych jako współrzędne. Dodatkowo wyświetla tylko przestępstwa typu "Public Order".
+* Zapytanie z *geo_bounding_box*. Lokalizacja przestępstw w obszarze na podstawie punktów podanych jako współrzędne. Dodatkowo wyświetla tylko przestępstwa typu "Public Order":
 
 ```bash
-
-curl -XGET "http://localhost:9200/mojabaza/_search?size=3000&pretty=1" -d"
-{
+curl -XGET "http://localhost:9200/mojabaza/_search" -d"
+{	
+	\"size\":3000,
     \"query\": {
         \"bool\": {
             \"must\": {
@@ -104,7 +105,6 @@ curl -XGET "http://localhost:9200/mojabaza/_search?size=3000&pretty=1" -d"
         }
     }
 }" | jq .hits.hits > geoe1.json
-
 ```
  
 Przekształcam jsona na obiekty GeoJSON przy pomocy [skryptu](https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/togeoJSONes.js):
@@ -114,11 +114,12 @@ node togeoJSONes.js geoe1.json mapka1_es.geojson
 ```
 [Mapa1](https://github.com/abie115/nosql/tree/master/maps/elasticsearch/mapka1_es.geojson)
 
-* Zapytanie z *geo_distance*. Lokalizacja przestępstw w odległości 0.5km od Lancaster [-2.7998800,54.0464900].
+* Zapytanie z *geo_distance*. Lokalizacja przestępstw w odległości 0.5km od Lancaster [-2.7998800,54.0464900]:
 
 ```bash
- curl -XGET "http://localhost:9200/mojabaza/_search?size=3000&pretty=1" -d"
+ curl -XGET "http://localhost:9200/mojabaza/_search" -d"
 {
+	\"size\":3000,
      \"query\": {
         \"bool\": {
             \"must\": {
@@ -143,11 +144,12 @@ node togeoJSONes.js geoe2.json mapka2_es.geojson
 
 [Mapa2](https://github.com/abie115/nosql/tree/master/maps/elasticsearch/mapka2_es.geojson)
 
-* Zapytanie z *geo_polygon*. Lokalizacja 20 przestępstw na zadanym obszarze, posortowane wg określonego punktu.
+* Zapytanie z *geo_polygon*. Lokalizacja 20 przestępstw na zadanym obszarze, posortowane wg odległości od określonego punktu:
 
 ```bash
- curl -XGET "http://localhost:9200/mojabaza/_search?size=20&pretty=1" -d"
+ curl -XGET "http://localhost:9200/mojabaza/_search" -d"
 {
+	\"size\":20,
     \"query\": {
         \"bool\" : {
             \"must\" : {
@@ -258,7 +260,7 @@ db.crimes.ensureIndex({"geometry" : "2dsphere"})
 ```
 
 
-* Zapytanie z *$near*. Lokalizacje przestępstw w kategorii "Burglary" w styczniu 2017, w odległosci 10000 od Londynu [0.07,51.30]
+* Zapytanie z *$near*. Lokalizacje przestępstw w kategorii "Burglary" w styczniu 2017, w maksymalnej odległości 10000 od Londynu [0.07,51.30]:
 
 ```bash
 db.crimes.find({
@@ -292,39 +294,22 @@ node togeoJSON.js geom1.json mapka1.geojson
 
 [Mapa1](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka1.geojson)
 
-* Zapytanie z  *$geoWithin*. 1000 lokalizacji przestępstw na danym obszarze czworokąta.
+* Zapytanie z *$geoWithin*. 1000 lokalizacji przestępstw na danym obszarze czworokąta:
 
 ```bash
 db.crimes.find({
-		geometry: {
-			$geoWithin: {
-				$polygon: [
-					[
-						-6.448974609375,
-						55.22589019607769
-					],
-					[
-						-8.162841796875,
-						54.44768586644478
-					],
-					[
-						-6.3116455078125,
-						54.05616356873164
-					],
-					[
-						-5.614013671875,
-						54.61343614230358
-					],
-					[
-						-6.444854736328124,
-						55.22275708802209
-					]
-				]
-			}
+	geometry: {
+		$geoWithin: {
+			$polygon: [
+				[-6.448974609375, 55.22589019607769], [-8.162841796875, 54.44768586644478],
+				[-6.3116455078125, 54.05616356873164], [-5.614013671875, 54.61343614230358],
+				[-6.444854736328124, 55.22275708802209]
+			]
 		}
-	}, {
-		_id: 0
-	}).limit(100).toArray()
+	}
+}, {
+	_id: 0
+}).limit(100).toArray()
 ```
 
 Komenda w pliku [printjson2.js](https://github.com/abie115/nosql/tree/master/scripts/mongo/printjson2.js) i zapisuje do pliku [.json](https://github.com/abie115/nosql/tree/master/other/geom2.json)
@@ -341,7 +326,7 @@ node togeoJSON.js geom2.json mapka2.geojson
 
 [Mapa2](https://github.com/abie115/nosql/tree/master/maps/mongo/mapka2.geojson)
 
-* Zapytanie z  *$geoIntersects*. Lokalizacja przestępstw na przecięciu między wybranymi 3 punktami,które tworzą proste.
+* Zapytanie z *$geoIntersects*. Lokalizacja przestępstw, które znajdują się na przecięciu między wybranymi 3 punktami,które tworzą proste:
 
 ```{r, engine = 'bash', eval = FALSE}
 db.crimes.find({
@@ -395,7 +380,7 @@ Milliseconds      : 8
 Sprawdzam ilość danych:
 
 ```sql
-postgres=# select count(*) from import.crimes;
+select count(*) from import.crimes;
   count
 ---------
  1446646
@@ -440,7 +425,7 @@ Przykładowy rekord:
 
 ```sql
 
-postgres=# SELECT * FROM my.crimeuk LIMIT 1;
+SELECT * FROM my.crimeuk LIMIT 1;
             id            | crime_type  |  reported_by  |   lsoa_name    |   month    |        location         | geo_type |    lon    |    lat
 --------------------------+-------------+---------------+----------------+------------+-------------------------+----------+-----------+-----------
  58d00a14adf75638ca2f7ce7 | Other crime | Surrey Police | Tandridge 008B | 2016-11-01 | On or near Hunters Gate | Point    | -0.127513 | 51.239654
@@ -453,7 +438,7 @@ postgres=# SELECT * FROM my.crimeuk LIMIT 1;
 
 ```sql
                                                            
-postgres=# SELECT crime_type, COUNT(*) AS count FROM my.crimeuk  GROUP BY crime_type ORDER BY count DESC LIMIT 5;
+SELECT crime_type, COUNT(*) AS count FROM my.crimeuk  GROUP BY crime_type ORDER BY count DESC LIMIT 5;
           crime_type          | count
 ------------------------------+--------
  Anti-social behaviour        | 379866
@@ -476,14 +461,14 @@ df = data.frame(crime=c('Anti-social behaviour', 'Violence and sexual
 ggplot( data = df, aes( crime,count,group = 1 )) + geom_bar(stat="identity")
 
 ```
-![alt tag](https://github.com/abie115/nosql/tree/master/other/wykres1.png)
+![1](nosql/other/wykres1.png)
 
 #### Agregacja 2
 
-Współrzęne geograficzne w których zlokalizowano najwięcej przestępstw.
+Współrzędne geograficzne w których zlokalizowano najwięcej przestępstw:
 
 ```sql
-postgres=# SELECT lon, lat, COUNT(*) AS count FROM my.crimeuk GROUP BY lon,lat ORDER BY count DESC LIMIT 1;
+SELECT lon, lat, COUNT(*) AS count FROM my.crimeuk GROUP BY lon,lat ORDER BY count DESC LIMIT 1;
     
     lon    |   lat    | count
 -----------+----------+-------
@@ -494,11 +479,11 @@ postgres=# SELECT lon, lat, COUNT(*) AS count FROM my.crimeuk GROUP BY lon,lat O
  
 #### Agregacja 3
  
- Liczba zgłoszonych przestępstw przez Surrey Police na przestrzeni 3 miesięcy.
+ Liczba zgłoszonych przestępstw przez Surrey Police na przestrzeni 3 miesięcy:
  
 ```sql
 
-postgres=# SELECT TO_CHAR(month, 'YYYY-MM'), count(*) FROM my.crimeuk WHERE reported_by LIKE 'Surrey Police' GROUP BY month;
+SELECT TO_CHAR(month, 'YYYY-MM'), count(*) FROM my.crimeuk WHERE reported_by LIKE 'Surrey Police' GROUP BY month;
  
  to_char | count
 ---------+-------
