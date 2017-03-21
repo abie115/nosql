@@ -123,47 +123,7 @@ $(document).ready(function () {
 <div id="aldona-biewska" class="section level2">
 <h2>Aldona Biewska</h2>
 <p>Wybrany zbiór danych: <a href="https://data.police.uk/data/">Open Crime Data in UK 11-12.16,01.17</a></p>
-<p><a href="https://abie115.github.io/nosql/">Zadania</a></p>
-<p>(zaliczenie)</p>
-<ul>
-<li>[ ] EDA</li>
-<li>[ ] Aggregation Pipeline</li>
-</ul>
-<p>(egzamin)</p>
-<ul>
-<li>[ ] MapReduce</li>
-</ul>
-<p>Informacje o komputerze na którym były wykonywane obliczenia:</p>
-<table>
-<thead>
-<tr class="header">
-<th>Nazwa</th>
-<th>Wartosć</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>System operacyjny</td>
-<td>TODO</td>
-</tr>
-<tr class="even">
-<td>Procesor</td>
-<td>TODO</td>
-</tr>
-<tr class="odd">
-<td>Pamięć</td>
-<td>TODO</td>
-</tr>
-<tr class="even">
-<td>Dysk</td>
-<td>TODO</td>
-</tr>
-<tr class="odd">
-<td>Baza danych</td>
-<td>TODO</td>
-</tr>
-</tbody>
-</table>
+
 <div id="przedstawienie-danych" class="section level3">
 <h3>Przedstawienie danych</h3>
 <p>Dane znajdują się w kilku folderach po kilkadziesiąt .csv przy pomocy skryptu <a href="https://github.com/abie115/nosql/tree/master/scripts/merge.bat">merge.bat</a> scaliłam je w jeden csv.</p>
@@ -261,7 +221,7 @@ curl -XGET &quot;http://localhost:9200/mojabaza/_search?size=3000&amp;pretty=1&q
 </code></pre>
 <p>Przekształcam jsona na obiekty GeoJSON przy pomocy <a href="https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/togeoJSONes.js">skryptu</a>:</p>
 <pre class="bash"><code>node togeoJSONes.js geoe1.json mapka1_es.geojson</code></pre>
-<script src="data:text/javascript;charset=utf-8,document%2Ewrite%28%22%3Ciframe%20height%3D%5C%27420%5C%27%20width%3D%5C%27620%5C%27%20frameborder%3D%5C%270%5C%27%20src%3D%5C%27https%3A%2F%2Frender%2Egithubusercontent%2Ecom%2Fview%2Fgeojson%3Furl%3Dhttps%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fabie115%2Fnosql%2Fmaster%2Fmaps%2Felasticsearch%2Fmapka1%5Fes%2Egeojson%5C%27%20title%3D%5C%27mapka1%5Fes%2Egeojson%5C%27%3E%3C%5C%2Fiframe%3E%22%29%0A"></script>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/elasticsearch/mapka1_es.geojson"></script>
 <ul>
 <li>Zapytanie z <em>geo_distance</em>. Lokalizacja przestępstw w odległości 0.5km od Lancaster [-2.7998800,54.0464900].</li>
 </ul>
@@ -283,7 +243,7 @@ curl -XGET &quot;http://localhost:9200/mojabaza/_search?size=3000&amp;pretty=1&q
 }&quot; | jq .hits.hits &gt; geoe2.json</code></pre>
 <p>Przekształcam jsona na obiekty GeoJSON przy pomocy <a href="https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/togeoJSONes.js">skryptu</a>:</p>
 <pre class="bash"><code>node togeoJSONes.js geoe2.json mapka2_es.geojson</code></pre>
-<script src="data:text/javascript;charset=utf-8,document%2Ewrite%28%22%3Ciframe%20height%3D%5C%27420%5C%27%20width%3D%5C%27620%5C%27%20frameborder%3D%5C%270%5C%27%20src%3D%5C%27https%3A%2F%2Frender%2Egithubusercontent%2Ecom%2Fview%2Fgeojson%3Furl%3Dhttps%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fabie115%2Fnosql%2Fmaster%2Fmaps%2Felasticsearch%2Fmapka2%5Fes%2Egeojson%5C%27%20title%3D%5C%27mapka2%5Fes%2Egeojson%5C%27%3E%3C%5C%2Fiframe%3E%22%29%0A"></script>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/elasticsearch/mapka2_es.geojson"></script>
 <ul>
 <li>Zapytanie z <em>geo_polygon</em>. Lokalizacja 20 przestępstw na zadanym obszarze, posortowane wg określonego punktu.</li>
 </ul>
@@ -321,7 +281,7 @@ curl -XGET &quot;http://localhost:9200/mojabaza/_search?size=3000&amp;pretty=1&q
 | jq .hits.hits &gt; geoe3.json</code></pre>
 <p>Przekształcam jsona na obiekty GeoJSON przy pomocy <a href="https://github.com/abie115/nosql/tree/master/scripts/elasticsearch/togeoJSONes.js">skryptu</a>:</p>
 <pre class="bash"><code>node togeoJSONes.js geoe3.json mapka3_es.geojson</code></pre>
-<script src="data:text/javascript;charset=utf-8,document%2Ewrite%28%22%3Ciframe%20height%3D%5C%27420%5C%27%20width%3D%5C%27620%5C%27%20frameborder%3D%5C%270%5C%27%20src%3D%5C%27https%3A%2F%2Frender%2Egithubusercontent%2Ecom%2Fview%2Fgeojson%3Furl%3Dhttps%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fabie115%2Fnosql%2Fmaster%2Fmaps%2Felasticsearch%2Fmapka3%5Fes%2Egeojson%5C%27%20title%3D%5C%27mapka3%5Fes%2Egeojson%5C%27%3E%3C%5C%2Fiframe%3E%22%29%0A"></script>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/elasticsearch/mapka3_es.geojson"></script>
 </div>
 <div id="mongodb" class="section level3">
 <h3>Mongodb</h3>
@@ -385,7 +345,7 @@ db.crimes.update( { }, { $rename : rename }, false, true );</code></pre>
 <pre class="bash"><code>mongo --quiet printjson1.js &gt; geom1.json</code></pre>
 <p>Przekształcam na obiekty GeoJSON za pomocą <a href="https://github.com/abie115/nosql/tree/master/scripts/mongo/togeoJSON.js">skryptu</a>:</p>
 <pre class="bash"><code>node togeoJSON.js geom1.json mapka1.geojson</code></pre>
-<script src="data:text/javascript;charset=utf-8,document%2Ewrite%28%22%3Ciframe%20height%3D%5C%27420%5C%27%20width%3D%5C%27620%5C%27%20frameborder%3D%5C%270%5C%27%20src%3D%5C%27https%3A%2F%2Frender%2Egithubusercontent%2Ecom%2Fview%2Fgeojson%3Furl%3Dhttps%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fabie115%2Fnosql%2Fmaster%2Fmaps%2Fmongo%2Fmapka1%2Egeojson%5C%27%20title%3D%5C%27mapka1%2Egeojson%5C%27%3E%3C%5C%2Fiframe%3E%22%29%0A"></script>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/mongo/mapka1.geojson"></script>
 <ul>
 <li>Zapytanie z <em>$geoWithin</em>. 1000 lokalizacji przestępstw na danym obszarze czworokąta.</li>
 </ul>
@@ -423,7 +383,7 @@ db.crimes.update( { }, { $rename : rename }, false, true );</code></pre>
 <pre class="bash"><code>mongo --quiet printjson2.js &gt; geom2.json</code></pre>
 <p>Przekształcam na obiekty GeoJSON za pomocą <a href="https://github.com/abie115/nosql/tree/master/scripts/mongo/togeoJSON.js">skryptu</a>:</p>
 <pre class="bash"><code>node togeoJSON.js geom2.json mapka2.geojson</code></pre>
-<script src="data:text/javascript;charset=utf-8,document%2Ewrite%28%22%3Ciframe%20height%3D%5C%27420%5C%27%20width%3D%5C%27620%5C%27%20frameborder%3D%5C%270%5C%27%20src%3D%5C%27https%3A%2F%2Frender%2Egithubusercontent%2Ecom%2Fview%2Fgeojson%3Furl%3Dhttps%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fabie115%2Fnosql%2Fmaster%2Fmaps%2Fmongo%2Fmapka2%2Egeojson%5C%27%20title%3D%5C%27mapka2%2Egeojson%5C%27%3E%3C%5C%2Fiframe%3E%22%29%0A"></script>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/mongo/mapka2.geojson"></script>
 <ul>
 <li>Zapytanie z <em>$geoIntersects</em>. Lokalizacja przestępstw na przecięciu między wybranymi 3 punktami,które tworzą proste.</li>
 </ul>
@@ -443,7 +403,7 @@ db.crimes.update( { }, { $rename : rename }, false, true );</code></pre>
 <pre class="bash"><code>mongo --quiet printjson3.js &gt; geom3.json</code></pre>
 <p>Przekształcam na obiekty GeoJSON za pomocą <a href="https://github.com/abie115/nosql/tree/master/scripts/mongo/togeoJSON.js">skryptu</a>:</p>
 <pre class="bash"><code>node togeoJSON.js geom3.json mapka3.geojson</code></pre>
-<script src="data:text/javascript;charset=utf-8,document%2Ewrite%28%22%3Ciframe%20height%3D%5C%27420%5C%27%20width%3D%5C%27620%5C%27%20frameborder%3D%5C%270%5C%27%20src%3D%5C%27https%3A%2F%2Frender%2Egithubusercontent%2Ecom%2Fview%2Fgeojson%3Furl%3Dhttps%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Fabie115%2Fnosql%2Fmaster%2Fmaps%2Fmongo%2Fmapka3%2Egeojson%5C%27%20title%3D%5C%27mapka3%2Egeojson%5C%27%3E%3C%5C%2Fiframe%3E%22%29%0A"></script>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/mongo/mapka3.geojson"></script>
 </div>
 </div>
 </div>
