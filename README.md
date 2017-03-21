@@ -33,7 +33,7 @@ Dane zawierają pola:
 |Crime ID|Month|Reported by|Falls within|Longitude|Latitude|Location|LSOA code|LSOA name|Crime type|Last outcome category|Context|
 |--------|-----|-----------|------------|---------|--------|--------|---------|---------|----------|---------------------|-------|
 
-Pominełam  m.in. pole 'Crime ID' jako, że część danych go nie zawiera.
+Pominęłam  m.in. pole 'Crime ID' jako, że część danych go nie zawiera.
 Wybrane pola i przykładowy rekord:
 
 ```bash
@@ -454,14 +454,11 @@ Wykres na podstawie zapytania:
 
 ```r
 require(ggplot2);
-df = data.frame(crime=c('Anti-social behaviour', 'Violence and sexual
-                        offences','Criminal damage and arson','Other
-                        theft','Burglary'),
-                count=c(379866,314699,141112,122107,111715))
+df = data.frame(crime=c('Anti-social behaviour', 'Violence and sexual offences','Criminal damage and arson',
+			'Other theft','Burglary'),count=c(379866,314699,141112,122107,111715))
 ggplot( data = df, aes( crime,count,group = 1 )) + geom_bar(stat="identity")
-
 ```
-![1](nosql/other/wykres1.png)
+<img src="https://github.com/abie115/nosql/blob/master/other/wykres1.png" alt="wykres1" width="500px" height="323px"/>
 
 #### Agregacja 2
 
