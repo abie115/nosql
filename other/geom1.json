@@ -1,6 +1,5 @@
 [
 	{
-		"crime_id" : "6607d7d560a25e3fde1ba49ffad78a2745e93d27cade4f5816fc2fbdb5111264",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 042C",
@@ -15,7 +14,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "e968c7c1d48d914418c79f00c8f759e294087a5476a683e86abcec6b9b664fc9",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 042C",
@@ -30,7 +28,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "6d5f0e3d48c4b7d1d15625a44904dee36f5a7503d6cf6a79d99ec08363e7d4dc",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 042D",
@@ -45,7 +42,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "99a83c951fdda5e488a8fc498723778f8bcea09b1faa5514e6cbbf00814af0f4",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 042B",
@@ -60,7 +56,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "edced61c5825e7bd8d7a903bf58874a968632ed6f3e9914ae15f1000d4e7ef80",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 013C",
@@ -75,7 +70,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "58674e4741453b21adfa84665cd09b7004164e4770892d6fafa47acb0fdbc6f7",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 013C",
@@ -90,7 +84,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "f8d50020864ab1ebb0d6964f4610d53a683fbb561fa6c2e99b5fe12c89a8e84d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 012D",
@@ -105,7 +98,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "16ea6a335afa98c37e9ad153a97b26fc635bd17c7cf4834072d32ffba6e47387",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 013A",
@@ -120,7 +112,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "ccf749b024de206e867328462a005912a000f0f4db9d1b6bedaa130c1680fff2",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 013A",
@@ -135,7 +126,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "c0c82eb327156652efb8e037bd5882d5a0d4c667b176ee83637e5d52f4fc76e4",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008D",
@@ -150,7 +140,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "c6625d742b44b63cec2e65a96f6f9c562059b007d688ecae0382c50424e3b558",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008D",
@@ -165,7 +154,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "667a0342455d55d347fc0a4227f43165c5fa35554a53a65b887f8a5ce493381a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Bromley 037A",
@@ -180,7 +168,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "4905d349a24637991ffb42a529a3e4c2e45e3529ecae4c3a52421eb83b5042b4",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Bromley 037A",
@@ -195,7 +182,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "97eb8dbafde9d18dcc9c2e7d6a0bd279ca7e871a46aef2868986c668d4ed421b",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037D",
@@ -210,7 +196,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "416174e17b4b7eb8c9024fc751ac5a1791e4d05d664601bc00db099cb5d8a32d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037A",
@@ -225,7 +210,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "1593d194c8c6f5e11cb93be22ef264d10dbc5b0bc6623abad2f20f00ada9f3d1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037A",
@@ -240,7 +224,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "abf433e50f562d9c4db899d8d5e9bf20871bcceb4f692d6928beba765d4f313b",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037D",
@@ -255,7 +238,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "69ef17b775f7075c65614da78527bb912f6b42875f5668df7ce718c290d8022e",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006B",
@@ -270,7 +252,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "b967b88a13bcae1d5f09546530071371cb3149615a7e6162bece6a71088550a7",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037A",
@@ -285,7 +266,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "eef0456ac57336ffd86d34d64009aa7fe0d1d2e6967b05458c5003ca65c1ad53",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 036D",
@@ -300,7 +280,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "5b4622586ca35d04742222c4c0e4ab7a1085581bc7ddcd784b0e5c90774ed042",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -315,7 +294,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "477641e83616ebe032c852c2cbe43041e3f14f1f05ba929d978566dc42a78d5c",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -330,7 +308,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "e87bbfdb19e2330789bffc0883775e8cbc923bb74a8757812ab9cb6629daff62",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -345,7 +322,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "9cfee18d53ffb107f99faa757f01e4e8f246127a0dd4c3924938efa4da8fea01",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -360,7 +336,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "578ea948cb3de72b1f344263f6da4b79d85acf30fa7d1c9c236e5472547e1900",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -375,7 +350,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "53b3d0ec2131d73f24b3dac65de6a199486510d78f43af380fdd300f6f5b4fd3",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -390,7 +364,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8b6377ab96d5072cb7f0bb04bb32029317c296d0c48e563537ca58f44b74fa6a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -405,7 +378,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "97a97342126ea53e9fa2d31f95ca3974e62d61ddda23cb2c715f18e79e15a1b5",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006A",
@@ -420,7 +392,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "9f63581fcd466c2625f3c2dee4fc3103a25264b3eb22e455b72d1f0e651c88c1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037C",
@@ -435,7 +406,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "b72c73cfe0eaf2f16f3fd2f7e0f9ed1a2727a9d4869781b397f22d7711d8b1ff",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037E",
@@ -450,7 +420,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "dbd01af0db12cd08f687211a46e069b095888f5065258e2eb7568a572f098bdb",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037C",
@@ -465,7 +434,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "0ae8bc96691600d99dafa8aceee87aaf6667d768efe7e939d466e2ab85ac968d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008C",
@@ -480,7 +448,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "94be9553bf41dc96a8753464f224ab4c914eb7f20134cc98ab45633b76dfd4cf",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008C",
@@ -495,7 +462,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "213d67356174ca4e2234bd8c175c1efc97d8c4ae5b96c5d01276546853095cad",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008A",
@@ -510,7 +476,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "e66cdd99aadd396cee74b0aca5ec3133584fb7ff5490b916f977516f4751a25e",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008A",
@@ -525,7 +490,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "75f2067fd345e2407ed0b51a78ad9291f68a3b3601a00fa1ef7905b920533153",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 036D",
@@ -540,7 +504,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7dc12fbd95fff4eca21a8beb4369320564dbe704a8bca3e0a2246b847f35deb5",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 035D",
@@ -555,7 +518,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8792da3ac7c0586e7aad83098479bde5c8820da86247c8c21693762f4ea23250",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037E",
@@ -570,7 +532,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "87dbab82ade8601f415d42160a14d5e31214f1329b3dd8d7781416096edfc68d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037C",
@@ -585,7 +546,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d84515fc1fe86c453941fc7b472a81dbd2db4994aaa759a54be7ccfab09926e6",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 036D",
@@ -600,7 +560,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7c7041bbcbc41767ed84a3974134866186b644187645fb9d497f63dc6f4c693b",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 036B",
@@ -615,7 +574,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "dc9aa281cc5cc673ed44f5aa23ce5ba9cf4b066ed3f61003f79bad23e7dfc37a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 036A",
@@ -630,7 +588,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "b6bf2fd804d375bebae81338413bd4ad78e29d1a82a01d9b32d2249f29175792",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011B",
@@ -645,7 +602,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "dfba5a653abacce451367cc417f874cd35dd022959e59bf4b96d36b9b3787020",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011B",
@@ -660,7 +616,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "4e8463c7636783cd42143f00bbfbcceecc31c01950d5f00e44afbdab4da39120",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 032E",
@@ -675,7 +630,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "bb8c7f467b8d6f6f110114dfaf819aa1c1d3c4f75c58b32d4d97655deef09dbc",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006C",
@@ -690,7 +644,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "989356d999ff5d381e1f1ae378fb95aeb4080ffc3236a1f321acc2d5187e6dd6",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006C",
@@ -705,7 +658,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "108a400fadccfa88a39d7e575d5921c66c942d8657fa705613b71ee0ad60ae17",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006D",
@@ -720,7 +672,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "642ea1c3337b9eff75a5194d33c1afcd552e1153221452974f7065f2aa5a38b9",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 036D",
@@ -735,7 +686,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "fd691648b6c8cb2cdfc7ee687a98743df17931bf7e02a8da01a67b67291df0e4",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 035C",
@@ -750,7 +700,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "95b982f43f44b16cc4abeb12f3c6a6a35f2951534e50dc8f493adfda617bcc73",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 007B",
@@ -765,7 +714,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "c3a50da87c46823b71c5867a33b23c48a6d338f97ebaa24f5eec6e528c20eaf5",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011F",
@@ -780,7 +728,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7672c5bd0a538c14a2457a30e75555f8161639a88fd9952af8e41eca10ccd461",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011F",
@@ -795,7 +742,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "16845a77e3bbf5b04ac4f93b61b9e4def08ce5dc2ebd6f6370a7070ff83cfee8",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 036C",
@@ -810,7 +756,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "cdc235c42cdae343a608cd748ca46d17b8eb18a06a87d9d258d42cf20a16c774",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -825,7 +770,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "20fc2d25c62e1c39f358eee8ecf130cbfa580e6ef77d6d987a8496189b28a3dc",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -840,7 +784,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "5db10b20bf43b620c67e5c853fc0659667edf88b46dffa73dad1b90f7624d702",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -855,7 +798,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "602e09982bab3ee3a327dd5584409bd8bf54588864d15a53d4bbcb433c3eae2d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -870,7 +812,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8e7785d78f411c0dc5ac732cfb007eea43a256d84ebaba961dc28376e1c97063",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 032E",
@@ -885,7 +826,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "b822d5299b11de7db80f1c105f0f89c26b89102d68a94d717f186ee3e3ea4894",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 007A",
@@ -900,7 +840,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "282a1dfefdf9772af1ee9e479b3772d32c9af8d2c89de8b850f95b9077e68230",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 007A",
@@ -915,7 +854,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "77c219ce3dc436945050ea5f10592bc7aa561f1782539d4353b44499a042bcdd",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 032D",
@@ -930,7 +868,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "40494055e52222715cff2bea02db266bf5a4cc9595402b0cdac949322aca7ecc",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Sevenoaks 013D",
@@ -945,7 +882,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "e2c10f007aedfc8cb8385d145672c331ac9eade83e6a95101c32c15dba9d9f71",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -960,7 +896,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "ab7def8b4d7407005313403f03ce313c603164cceef11dccc3e7f981427a49ec",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 035A",
@@ -975,7 +910,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "4d3c15cbf8456c3184e92970c5e8daaf6fa6f1ef41406fec196901a974ce4a4c",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 037A",
@@ -990,7 +924,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7757c455bdd26f1af80fc045cc2946be1376a5957043959e10c55f6ec6953d8f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 033D",
@@ -1005,7 +938,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8424beeaa04e67ac74387e8322aea7b4c9097ae8ca31581e29e0fe1b1b8dabd2",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 035E",
@@ -1020,7 +952,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "6485ad35f62ce9f16c35ab35fc4e46a475df2058c779851c1b5c88eaa5ffea35",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 033D",
@@ -1035,7 +966,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "4eb69f02ebedf317e32fffa53c764fc38885c4f6ada53ee6bef5908ce87283ca",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 007A",
@@ -1050,7 +980,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "85a7e4d89b60d7fabaef6090f996dfae16395e426f819269dae819c900d1be02",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 007A",
@@ -1065,7 +994,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "fbdbf2086bc27cc0c1f69dbb7f1594f2eabd499f096d5ee16aa9798825524fac",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -1080,7 +1008,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "f262e620b487d4295334c3468cbadddbc657e4ddbec2c4c0d6268fa0b174ccc2",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 033C",
@@ -1095,7 +1022,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7c1dc164f5e8ac17d05b23cd79878e710c2252c45f5fe5ceb45f7388d6ad855f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 032D",
@@ -1110,7 +1036,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "21d5195325d37de4806b533681c315c412f49f94361fc9be647e55a74f6a3360",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -1125,7 +1050,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "29800d28c913a9e37f007d08f21143603b1a7f92fef590229d53fcb7b397b7cb",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 032D",
@@ -1140,7 +1064,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "27785766abdf16ed34e0e06b1f1314c5ae5e4e1a0d3d69279eec607da96aedd9",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011D",
@@ -1155,7 +1078,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "c49e6cf7265cf4f5ceb78f7c1dec1715ab98a126f1639e0a993e8f61a8e9a12f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011D",
@@ -1170,7 +1092,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "819f501aa91124ac397267de017b10dae6f1c08b1742651194853d36bb6e98d3",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011D",
@@ -1185,7 +1106,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7bf09e36f9dc0507272866e069fae2db43f4b5cae64bd8db70595e3b54fb6057",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011D",
@@ -1200,7 +1120,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "059399df08a05c3bb5b55e8230343ced7e55940a4cb7fb4339452a4dfa2e5db2",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011F",
@@ -1215,7 +1134,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "bc24a2670bae899251e41c6bcb8c9a0f4266b15da3b50d5e2875bd201ff6f281",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011F",
@@ -1230,7 +1148,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d11392610afed256aa282a03cfb1e0ae54257275fa1d5dd163b77e9b61eed040",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 012C",
@@ -1245,7 +1162,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "165b59d91d7dc2ca131f4a37a0dfd7d34126d8d7685021204765af46a0ad48db",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 030D",
@@ -1260,7 +1176,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d4e01427fe601eb3b567fea7b66b2260ea153afe21c5c05426ac1de4723a13a0",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012E",
@@ -1275,7 +1190,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "170d1941abcf961bccf3278332e399071eb3c926f4166a1a89261a6911f4c149",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012E",
@@ -1290,7 +1204,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "2a999b94aa1b137f11871d7b229b94742323d88e227149227ef535e6be6c4945",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 032A",
@@ -1305,7 +1218,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "a6c59da400467d336f632798a16a90a5538be7118590e7a5ad5dba4fb0230f7d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011D",
@@ -1320,7 +1232,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "06a6d5389b66ab199a54df5208f75af14393cc023132daafa0a1671381e56336",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 011D",
@@ -1335,7 +1246,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "f8f33f2e57e1630fa21db6d70f6bbb9940e79701cfd4d3a059244fb19eb9725d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 007D",
@@ -1350,7 +1260,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "93051aaff72d49ea38bf6d04bbcfaa6c9463824cdb4409b7deab06a07f7975a9",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 004F",
@@ -1365,7 +1274,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7b480e4cdee7d23f6ae1c03e4414f2fbf5a3c9d580254cf61b2b4f53c1bf457e",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010F",
@@ -1380,7 +1288,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8fad33425dbd2df10ca1ca6e19bb283362d6fc3ac723e3491ba021ab69ef9070",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010F",
@@ -1395,7 +1302,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "43556c6bf9079542d60d871851a77abbc54ea29a53b826b13545ae0f14fc609f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029D",
@@ -1410,7 +1316,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "bc9d5546cfd17e493975e9c6d19325df2a5f76a71240513ff10b6febe165080e",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 007C",
@@ -1425,7 +1330,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "97bc1b3eede95784b99252c2806236ba01d708457fb5dfce4020e9ed649289b1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 013D",
@@ -1440,7 +1344,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "e1f35f2c052e1c72802c4aeb751fe703965ea5904b7ce35f2cfe9b365f596210",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 013D",
@@ -1455,7 +1358,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8b27a3c32413e496bd0aa3e3554a593b4fe5bdafc232fb310b475db662738788",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008E",
@@ -1470,7 +1372,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "bfce82d932b77c69fccd70957beb5c7a964cf14c902b0848cbcb715a4cae6914",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 008E",
@@ -1485,7 +1386,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "81c7cdde5759e84288e5852887b8886c58cb0b7411a161ed991311407ae04144",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 028C",
@@ -1500,7 +1400,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "36b14508def5201011cf8443f0c44b447ce7e870f48e149fd021c7c8b2bed40f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 032C",
@@ -1515,7 +1414,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "806dc084e4fce8a13ba15cc20029c8a98abe8b570c6c26e13892dbfdf3d60e1e",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010D",
@@ -1530,7 +1428,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "73af85f0610f031a6625d0dc3716489ef347268bed582eac0b20db1af7fcadfb",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010D",
@@ -1545,7 +1442,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "67288cc78671995b2c92b90892067bcfdbbdd2640ea0ad12be94615f7c167d8e",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010D",
@@ -1560,7 +1456,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "82b32a0463ba528ac76f2d261305f5ad39fa45b997c656fba58d77cab0d7a648",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010D",
@@ -1575,7 +1470,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "6d6cea88dd0ab08f477ede27fcd452b246f6be426b08414af33769b5b40eb385",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 028E",
@@ -1590,7 +1484,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8cc19839472e22e449cd375ec7376f6489abe6bde6d6ccccf799b164f6499db1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010D",
@@ -1605,7 +1498,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "2d8b646be22a3ca133533a965b80c553c67998449026fafd49c1d148359ec719",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010D",
@@ -1620,7 +1512,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "74507df3f8ae68ba4a38afb5cae1ca44974dfc4d1f6ef60b87bb14d4f9a30659",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029D",
@@ -1635,7 +1526,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "817bef6b9afb1a17d46d9daa5faf68a8a92475c1d22b4a30cd2c41dc455574b2",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 028C",
@@ -1650,7 +1540,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "f2e7f1654a9e77b12ac951c7cd02e44bb1f6f5135a3abc73e9e112882f77ec11",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 002A",
@@ -1665,7 +1554,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "c04fce86f184e8868ec1474236016de9f20f0692645fd6324db811a21287b3da",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 012B",
@@ -1680,7 +1568,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "23f9c7a87134453a8a804b8cbd45f9482d2ed4ba0c094f0c23201782ab96fe04",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 009D",
@@ -1695,7 +1582,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "45d6cf4b4b3586342c17e08659a32469575bdd6e109fb2c1d7a1915fa391449f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 009D",
@@ -1710,7 +1596,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "afad6f8fab87963695b98fcc62c44c77d424c31276948e898369e6959da31b40",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 030A",
@@ -1725,7 +1610,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "a41126c11e7d0135974efc0e693690397fda90628d664a6b6820fe0f6237afbe",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 030A",
@@ -1740,7 +1624,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "933fdafdfc7b823291f3b4cdac46b4bac361762445b48ca2b83a1f81a80fea90",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 031B",
@@ -1755,7 +1638,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "f75d0ca2fd96308954cfa301f36de93fa8ab30418634e12693a3b120e878a098",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -1770,7 +1652,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "dd1a100e2268a35611a0139eaafdeff87405bb3ce686f4a276917e9787233ec5",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -1785,7 +1666,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "0fc69b041f4fd1caad7b98b4ba161388e61973ce9d37a172b1210a13c61fe01f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 034C",
@@ -1800,7 +1680,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "a75fadc9b771793977487ac9b3acac4bb63462ba56c2bd0e2110f906e8cd942e",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012E",
@@ -1815,7 +1694,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "ea7e25cda56ab17dfceb19f5f1e5c72a9798c23c4bd38b1711b62a3c4b36999d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012E",
@@ -1830,7 +1708,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "023c04048a8853540908f867f26acde87252ff09d07cf91b30faf99b3e63ca00",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 034B",
@@ -1845,7 +1722,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d838ba82b9b059778375c77c6ec0a77910676ff8c6226985dcf9d75d8732000a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012D",
@@ -1860,7 +1736,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "85a15bc10a0d0b4ff2bad6c7e34b69ebb2add6909ca00bae12dc221beb841a4d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012D",
@@ -1875,7 +1750,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "e1573f08988853a220da35c720aee82a8b6d9d3ef7427293039586adc1cbf21a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 032B",
@@ -1890,7 +1764,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "b6d17121173352864d7d1780dae0832a476fb3e01683113dfbc5ed322fd4edab",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010E",
@@ -1905,7 +1778,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "a6e1ff75ba1668dcdf50dbb6dc8147727f04613150979fb964ac7c37ef4f3257",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010E",
@@ -1920,7 +1792,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "6b561267d18d842025886131d3252e9e4ee5be1bd87edb41266031cb9e53c068",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010E",
@@ -1935,7 +1806,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "1459632f8caa58a5bb4bf910701fcd482a941573137cbe9ebe0890e3da05fa4c",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010E",
@@ -1950,7 +1820,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "0ab0007e66d09a8add3b33b4b640ef6b23d2034e6ba27193744f9362425892ed",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012F",
@@ -1965,7 +1834,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "2676083a1a022d84a6f49fef2344a948df50e2a6f9056c25ebc326c8db145f2b",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012F",
@@ -1980,7 +1848,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7d80c2d848fc02b06ec449bf794e40f09a6405147be87988302f8b9db4a1a6b5",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029D",
@@ -1995,7 +1862,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "33601dd09c10e5b2523558621af3914a1276b5d8505bd853067b01275eadb696",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029E",
@@ -2010,7 +1876,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "89caccb667991d3545c3937b0fe109b1ca030c652aad709cef44f2c7d6bcd5b3",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012F",
@@ -2025,7 +1890,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "81690de2e088494e5c8f206782daac58a138f35c75329525e4567ae79b4e77ca",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012F",
@@ -2040,7 +1904,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "a7ac04de77cb76a811fcb7da64790913d71822e643246786083744f5e2d8fb36",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 028D",
@@ -2055,7 +1918,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "fe48eeb9840f5b01848667dddcf09e393a99d1967aab6fde114810893d6e4e35",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 005A",
@@ -2070,7 +1932,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "75b23d1e94f4534784b7708096ffeb71f336b530141c350e9ae56f81689caebf",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 005A",
@@ -2085,7 +1946,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "84c7a506a1a3e236917d064fe1fcb1be54f42260aed9b06b9404ef9698a8f262",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012B",
@@ -2100,7 +1960,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "6adab8bbac27347c5eac2aeb8087d87a35dc2f3f63f76898a4f484331f8dd154",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012B",
@@ -2115,7 +1974,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7a61e35fb266435f1948e31ea0eea0643d836c9855d36d48bb53b027ed80cbd9",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012F",
@@ -2130,7 +1988,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "c2152f2b8561236a1e475a15cc075fe8f1c6a4dfa69ae108b6b5f4984fc0f79d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 012F",
@@ -2145,7 +2002,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "798ab3286896ae2f9ad1afb1e070fdf08f65b764a26046ccba7dc64116dbc348",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 028D",
@@ -2160,7 +2016,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "64cd4a2d0c9bedf24c14868bf7880409a76bfc24c443a8da5bfe4a74d8635111",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2175,7 +2030,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d45f9866003a42e0722b3b03c14bb492e0681b30f3258fd008958ed07e1c4a25",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2190,7 +2044,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "9ffd7b085e399cc0efcc3371d1279c2c963522ba32c243316883f6d37c691255",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 034E",
@@ -2205,7 +2058,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "5a4dfde210f92c400500367b4d98d1fab62c4829bf07329a5d3376994a34a08f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 028D",
@@ -2220,7 +2072,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "4f1769b599be4d08b1a5e35daeca43bb53cc58ba3f4208389b21676117c23f31",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2235,7 +2086,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "9365444f939d554e1e8f3626dd0a463f302cb7efdc2325cec08fc99d9512f7e1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2250,7 +2100,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "553fb4b335a0051a7bf4f11ed8ea9adf73226c30b6d34b786d5a31e11aec0dfd",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2265,7 +2114,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "3f89c63b39d519a4196ab5315e9587491e1eee288b0039e8043d4092937ae397",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2280,7 +2128,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "3140d05023909d0e56711837290f037446bad4d5ea906cde5298311ca5aac9d5",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 003A",
@@ -2295,7 +2142,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "5b47dfb2a08d0680fe12b4a8fde8b0c067b45f3ed16143f58118cc1e3976f1d3",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 003A",
@@ -2310,7 +2156,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d7e2732a075df4e72b8fbdacf4eb7059aa104d31bc1832b1f0e80424b99f1aad",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 003A",
@@ -2325,7 +2170,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "454355b80179021ff2bf70df069b0bb7421aabd12751335236ff6a2ef5ed3d6b",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 003A",
@@ -2340,7 +2184,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "b32193efff4bb7bb32424683abd6d7a0de62a6fd53b85651977e3b15db3b7e1d",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010E",
@@ -2355,7 +2198,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "563322cb88d70f7ef1c4210f4e887f856d5103bbb97c25165f83cf35ef0c70d1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010E",
@@ -2370,7 +2212,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "06f58952cdaf09cd848cdd7e9738ccfd84d21a5d30af02321506485ee1bd5ceb",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010B",
@@ -2385,7 +2226,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8478d71aa15c92bdf47ceaea6bd38550726725485685e0b473787595b0de2c02",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010B",
@@ -2400,7 +2240,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "cb821a1742a633401b95d5043082f65ad61cef17f9f2cb9d8f498569044d2c38",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 028A",
@@ -2415,7 +2254,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "cf9ad4613bbebe95cdde0de56a347b2ab567dc9e7baaf32684cfebbaf86797f1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 034E",
@@ -2430,7 +2268,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "f362e60b6a4eafb61bac67c489fb2df177ff9ec24e94952210250ded1c0bf6fc",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 034D",
@@ -2445,7 +2282,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "43ea7581fac83a6bf3e950e61087458b1aaf73a55f2c85436c69e3df95815d54",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 026A",
@@ -2460,7 +2296,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "51309e12d9272f991659ba70015b35c3a105dc58855dca9bb21cab55130d22a1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2475,7 +2310,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "8b10f4e9f6ca5e1508de220481d16fbb5e9535b54820ba6f5c55c63b58be6514",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2490,7 +2324,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d97186d19c19372212d1276c752deabf054cf8addc84d22967de48a28b0dc31a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2505,7 +2338,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "ebb33236c94e40367c896f9cd2c57c3ffa131bd91669c58ce8fe6cf5881cd3f1",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2520,7 +2352,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "010c19bb31bfbcd4becbd70b743f00ee1b610cb17dff3df8aea43ee80739fbfe",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 034E",
@@ -2535,7 +2366,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "0d4a17d503572ebff5a526961356f1853664c0263e1eef52871e76fd4debdb8c",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 034G",
@@ -2550,7 +2380,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "42837469b6c6d7d33aa3bf5930c4f64eedc681d4057e5ec0867d0d75f9b1b7c0",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029B",
@@ -2565,7 +2394,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "5bc80e64017c8a30d5a81e4683dc195c4024e13eee0a6d8dfb41d567fe18edc7",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029A",
@@ -2580,7 +2408,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "67fced032e35afe6750b9ee03378c46bf35a5900c43d6481690f13156f62670a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2595,7 +2422,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "3c2c9646f2bed3055608fccb5c88fb4d13290980124e56c2481d26601124356c",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 010C",
@@ -2610,7 +2436,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "ec27cd06f3cb99b3f6fff24cc6be1c380094f716e8ec8936ba12ac9d9c393aa3",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029B",
@@ -2625,7 +2450,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "ec95546aee7db6682f8328104b7e4a0c1db66a0ee35e006b94b2d9cb029ad24f",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 030E",
@@ -2640,7 +2464,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d83544d2077629505fe59c4777371f09d3b5c7eada83ed2d57bad9d5a538932a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 026B",
@@ -2655,7 +2478,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "3aee77d266b28d1cd05f33fd666e1f242040dcb088f9ad04bdf8c1de77579274",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 025C",
@@ -2670,7 +2492,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "bf639f488496c20330e1385d92c0d43c0e42b7942f1657ce13d2d127add2d820",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 026A",
@@ -2685,7 +2506,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "6a23a73d3b6dba59c834ea744f0073e4125c07df9e3bed90759490837bdeff97",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029B",
@@ -2700,7 +2520,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "bf62cf7c490087d9c21c193e2fbb91b1709a9fea4aa3c796ef65b990dded39ea",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 022C",
@@ -2715,7 +2534,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "c143feef605d796eed07b84fe1f7504ef321300525621bacb3003685caa6440a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 030H",
@@ -2730,7 +2548,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d1522b2c36ac831e7d2c74f7a9241c5a516b327d32fb8ed819417d95f0074de7",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 025D",
@@ -2745,7 +2562,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "27b90a5afb3dd7e9fb342ff61214a8fbf39d37b15e7794fcab06163390aa9df4",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 023A",
@@ -2760,7 +2576,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "5db5da642bddea8f4e1ecac6bbd62b8cbf9af81bebf3956c75808bade263352c",
 		"crime_type" : "Burglary",
 		"reported_by" : "Surrey Police",
 		"lsoa_name" : "Tandridge 006E",
@@ -2775,7 +2590,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "d95b5e65d774ede71cf23faf956ab323975bf81bae85ebad348be7d2315679df",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 029B",
@@ -2790,7 +2604,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "2b199de4ca1c5a74395c60695e6a85bb126b7567117e292088bda09ab87c4d7a",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 014B",
@@ -2805,7 +2618,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "ba2efcb5fda2790bd11313bed0287d92b5b0348f6365bb8e88c57cb7c646ecd7",
 		"crime_type" : "Burglary",
 		"reported_by" : "Hampshire Constabulary",
 		"lsoa_name" : "Sevenoaks 014B",
@@ -2820,7 +2632,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "eed35493b7e2fef6ea616340f0921579c179c25318ec7089d1730e45c0b8f5ab",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 023D",
@@ -2835,7 +2646,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "fb4cf30e36ec98e5e5ef2eff383bcd928524640275f456c5fdc7069e50b5a858",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Croydon 039B",
@@ -2850,7 +2660,6 @@
 		"month" : "2017-01"
 	},
 	{
-		"crime_id" : "7f0f0173768dea238fd2492824cdaaa9568ac808c4ce4f75616926e1c0a39f03",
 		"crime_type" : "Burglary",
 		"reported_by" : "Metropolitan Police Service",
 		"lsoa_name" : "Bromley 023A",
