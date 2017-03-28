@@ -233,7 +233,8 @@ $(document).ready(function () {
 }</code></pre>
 <p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo1.js">Skrypt JS z zapytaniem i konwersją na geojson</a>:</p>
 <pre class="bash"><code>node geo_data/scripts/es_query_geo1.js es_mapka1.geojson</code></pre>
-<p><script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/es_mapka1.geojson"></script> <br /> <br /></p>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka1.geojson"></script> 
+<br /> <br />
 <ol start="2" style="list-style-type: decimal">
 <li>Zapytanie z <em>geo_polygon</em>. Lokalizacja 1500 przestpstw na obszarze pięciokąta na terenie Manchesteru:</li>
 </ol>
@@ -264,7 +265,8 @@ $(document).ready(function () {
 </code></pre>
 <p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo2.js">Skrypt JS z zapytaniem i konwersją na geojson</a>:</p>
 <pre class="bash"><code>node geo_data/scripts/es_query_geo2.js es_mapka2.geojson</code></pre>
-<p><script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/es_mapka2.geojson"></script><br /> <br /></p>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka2.geojson"></script>
+<br /> <br />
 <ol start="3" style="list-style-type: decimal">
 <li>Zapytanie z <em>geo_bounding_box</em>.Lokalizacja przestępstw na podstawie wartości minimalnych i maksymalnych podanych jako współrzędne, które tworzą prostokąt na obaszarze Lake District National Park:</li>
 </ol>
@@ -288,7 +290,7 @@ $(document).ready(function () {
 }</code></pre>
 <p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo3.js">Skrypt JS z zapytaniem i konwersją na geojson</a>::</p>
 <pre class="bash"><code>node geo_data/scripts/es_query_geo3.js es_mapka3.geojson</code></pre>
-<p><script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/es_mapka3.geojson"></script></p>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka3.geojson"></script>
 <p><br /> <br /></p>
 </div>
 <div id="postgresql" class="section level3">
@@ -382,7 +384,8 @@ INSERT 0 1614639</code></pre>
 <pre class="sql"><code>SELECT  ST_AsGeoJSON(ST_Buffer(ST_MakePoint(-2.187,53.555)::geography,700)::geometry)::json AS geometry;</code></pre>
 <p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo1.js">Skrypt JS z zapytaniami i konwersją na geojson</a>:</p>
 <pre class="bash"><code>node geo_data/scripts/pg_query_geo1.js pg_mapka1.geojson</code></pre>
-<p><script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/pg_mapka1.geojson"></script> <br /> <br /></p>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka1.geojson"></script> 
+<br /> <br />
 <ol start="2" style="list-style-type: decimal">
 <li>Lokalizacja przestępstw związanych z narkotykami w prostokątnym obszarze na terenie Ainsdale, stworzonym na podstawie podanych wartości minimalnych i maksymalnych szerokości oraz długości geograficznej:</li>
 </ol>
@@ -390,7 +393,7 @@ INSERT 0 1614639</code></pre>
                     AND crime_type LIKE 'Drugs';</code></pre>
 <p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo2.js">Skrypt JS z zapytaniami i konwersją na geojson</a>:</p>
 <pre class="bash"><code>node geo_data/scripts/pg_query_geo2.js pg_mapka2.geojson</code></pre>
-<p><script src="https://embed.github.com/view/geojson/abie115/nosql/master/maps/pg_mapka2.geojson"></script></p>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka2.geojson"></script>
 </div>
 </div>
 
