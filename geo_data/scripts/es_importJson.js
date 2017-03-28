@@ -39,5 +39,5 @@ process.stdin
 .pipe(es.mapSync(function (data) {
 		crimes.push(data);
 	}).on('end', function () {
-		bulkBuild('db_crimes123', 'crime', crimes);
+		bulkBuild('db_crimes', 'crime', crimes);
 	}));

@@ -41,10 +41,12 @@ parser._transform = function (data, encoding, done) {
 };
 
 process.stdin
-.pipe(csvToJSON)
-.pipe(parser)
-.pipe(jsonToStrings)
 .pipe(process.stdout);
+
+process.stdin.on('data', function (data) {
+	console.log(data);
+	//process.stdout.write(data);
+});
 
 process.stdin.on('end', function () {
 	process.stdout.write('\n');

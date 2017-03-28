@@ -5,13 +5,13 @@ var client = new elasticsearch.Client({
 	});
 
 client.indices.delete ({
-	index: "db_crimes123"
+	index: "db_crimes"
 }, function (err, resp, status) {
 	console.log("delete", resp);
 });
 
 client.indices.create({
-	index: "db_crimes123",
+	index: "db_crimes",
 	body: {
 		"mappings": {
 			"crime": {

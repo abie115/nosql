@@ -52,7 +52,6 @@ client.search({
 
 var convert = function (data) {
 	var jsonData = JSON.parse(JSON.stringify(data));
-	fs.writeFile('pogladowyES1.json', JSON.stringify(jsonData, null, "\t"), 'utf8', () => {});
 	for (var el of jsonData)  {
 		var data = {
 			type: "Feature",

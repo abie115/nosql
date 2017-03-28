@@ -1,5 +1,5 @@
 var json2csv = require('json2csv');
-var pg = require('pg');
+var Client = require('pg').Client;
 var conString = "postgres://postgres:admin@localhost:5432/postgres";
 var fs = require('fs');
 var json = {
@@ -26,7 +26,6 @@ client.query("SELECT crime_type, reported_by, month, location, lsoa_name, ST_AsG
 
 var convert = function (data) {
     var jsonData = JSON.parse(JSON.stringify(data));
-	fs.writeFile('pogladowyPG2.json', JSON.stringify(jsonData, null, "\t"), 'utf8', () => {});
 	for (var el of jsonData)  {
 		var data = {
 			type: "Feature",
