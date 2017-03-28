@@ -1,0 +1,572 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2014-12-31T23:00:00.000Z",
+				"location": "On or near Anne Avenue",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.023682,
+					53.606239
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01-31T23:00:00.000Z",
+				"location": "On or near A565",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.033612,
+					53.603134
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01-31T23:00:00.000Z",
+				"location": "On or near Staveley Road",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.033462,
+					53.598245
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01-31T23:00:00.000Z",
+				"location": "On or near Parking Area",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.06216,
+					53.607989
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02-28T23:00:00.000Z",
+				"location": "On or near Liverpool Avenue",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.033214,
+					53.601708
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02-28T23:00:00.000Z",
+				"location": "On or near The Brookdale",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.035054,
+					53.592919
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02-28T23:00:00.000Z",
+				"location": "On or near Parking Area",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.06216,
+					53.607989
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-03-31T22:00:00.000Z",
+				"location": "On or near Heather Close",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.034822,
+					53.590827
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-03-31T22:00:00.000Z",
+				"location": "On or near Oakwood Avenue",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.029242,
+					53.604906
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-03-31T22:00:00.000Z",
+				"location": "On or near Parking Area",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.042934,
+					53.601839
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-04-30T22:00:00.000Z",
+				"location": "On or near A565",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.033612,
+					53.603134
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-04-30T22:00:00.000Z",
+				"location": "On or near A565",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.033612,
+					53.603134
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-05-31T22:00:00.000Z",
+				"location": "On or near Heathfield Road",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.021548,
+					53.607983
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-05-31T22:00:00.000Z",
+				"location": "On or near Cornwall Way",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.043862,
+					53.590416
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-05-31T22:00:00.000Z",
+				"location": "On or near Newby Close",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.049798,
+					53.593411
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-06-30T22:00:00.000Z",
+				"location": "On or near Sports/Recreation Area",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 010E",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.014027,
+					53.613261
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-07-31T22:00:00.000Z",
+				"location": "On or near Clovelly Drive",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 010D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.02567,
+					53.617144
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-07-31T22:00:00.000Z",
+				"location": "On or near Staveley Road",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.033462,
+					53.598245
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-07-31T22:00:00.000Z",
+				"location": "On or near Parking Area",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.042934,
+					53.601839
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-09-30T22:00:00.000Z",
+				"location": "On or near Blenheim Road",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.046704,
+					53.606382
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-10-31T23:00:00.000Z",
+				"location": "On or near Sports/Recreation Area",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 010E",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.014027,
+					53.613261
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-11-30T23:00:00.000Z",
+				"location": "On or near Easedale Drive",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.04701,
+					53.596761
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-11-30T23:00:00.000Z",
+				"location": "On or near Petworth Road",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.050321,
+					53.606566
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-12-31T23:00:00.000Z",
+				"location": "On or near Staveley Road",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.033462,
+					53.598245
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-01-31T23:00:00.000Z",
+				"location": "On or near Rose Crescent",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.037924,
+					53.590395
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-01-31T23:00:00.000Z",
+				"location": "On or near Cornwall Way",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.043862,
+					53.590416
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-02-29T23:00:00.000Z",
+				"location": "On or near Shaftesbury Avenue",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 010B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.011811,
+					53.617307
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-02-29T23:00:00.000Z",
+				"location": "On or near Mary Avenue",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.025132,
+					53.605562
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-02-29T23:00:00.000Z",
+				"location": "On or near Mary Avenue",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.025132,
+					53.605562
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-04-30T22:00:00.000Z",
+				"location": "On or near Whitehaven Close",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 012C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.049635,
+					53.594158
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-07-31T22:00:00.000Z",
+				"location": "On or near St Mary'S Gardens",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 010E",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.018741,
+					53.612547
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2016-11-30T23:00:00.000Z",
+				"location": "On or near Bradshaw'S Lane",
+				"crime_type": "Drugs",
+				"lsoa_name": "Sefton 011D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.032824,
+					53.604938
+				]
+			}
+		},
+		{
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[
+						-3.0744552612304688,
+						53.585168439492456
+					],
+					[
+						-3.0744552612304688,
+						53.62020849015501
+					],
+					[
+						-3.0099105834960938,
+						53.62020849015501
+					],
+					[
+						-3.0099105834960938,
+						53.585168439492456
+					]
+				]
+			]
+		}
+	]
+}

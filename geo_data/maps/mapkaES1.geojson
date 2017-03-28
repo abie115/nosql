@@ -1,0 +1,700 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Baileys Lane",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 017A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.822029,
+					53.361882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Baileys Lane",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 017A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.822029,
+					53.361882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Felsted Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 018D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.85206,
+					53.372809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Woodland Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 019D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.835789,
+					53.359368
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Helmsley Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 020A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.832634,
+					53.363238
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Police Station",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 020C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.832675,
+					53.357601
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Antons Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 020C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.830437,
+					53.358417
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Balsham Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 020D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.850139,
+					53.362377
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Ashford Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 020E",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.840733,
+					53.35937
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Ashford Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 020E",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.840733,
+					53.35937
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Rushton Place",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 051B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.868693,
+					53.374702
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Herald Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 054C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.878897,
+					53.356371
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Theatre/Concert Hall",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 054C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.889643,
+					53.364426
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Hillfoot Green",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 055C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.866469,
+					53.362925
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Alderman Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 055D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.856097,
+					53.35526
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Shadowbrook Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 055D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.857964,
+					53.354681
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Windfield Green",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 057A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.89437,
+					53.344741
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Locke Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 057A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.898107,
+					53.348165
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Windfield Green",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 057A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.89437,
+					53.344741
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Vulcan Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 057A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.900642,
+					53.348694
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Window Lane",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 057A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.897432,
+					53.348242
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Darby Grove",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 057C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.904375,
+					53.356855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Mercer Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 057D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.899129,
+					53.353892
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Durham Street",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 058A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.893366,
+					53.347733
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Airport/Airfield",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 058C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.854941,
+					53.3373
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Vesuvian Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 058D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.890368,
+					53.348789
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Logfield Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 058D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.888156,
+					53.3493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Vesta Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 058D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.888345,
+					53.348274
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Marton Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 059A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.843523,
+					53.340869
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Ramsfield Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 059B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.823686,
+					53.346518
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Ardwick Road",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 059D",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.831741,
+					53.342066
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Bramhall Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 059E",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.837506,
+					53.340417
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-01",
+				"location": "On or near Stapleton Avenue",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Liverpool 059F",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.846189,
+					53.344284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02",
+				"location": "On or near Baileys Lane",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 017A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.822029,
+					53.361882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02",
+				"location": "On or near Sports/Recreation Area",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 018C",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.851149,
+					53.366316
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02",
+				"location": "On or near Cheriton Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 019A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.838313,
+					53.366991
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02",
+				"location": "On or near Rainbow Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 019A",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.837627,
+					53.364965
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02",
+				"location": "On or near Graham Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 019B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.825436,
+					53.36709
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02",
+				"location": "On or near Graham Drive",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 019B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.825436,
+					53.36709
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"month": "2015-02",
+				"location": "On or near Lower Close",
+				"crime_type": "Anti-social behaviour",
+				"lsoa_name": "Knowsley 019B",
+				"reported_by": "Merseyside Police"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.821525,
+					53.366919
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#008000",
+				"marker-size": "medium",
+				"marker-symbol": "airport"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.849722,
+					53.333611
+				]
+			}
+		}
+	]
+}
