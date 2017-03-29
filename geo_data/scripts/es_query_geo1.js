@@ -29,7 +29,7 @@ client.search({
 	index: 'db_crimes',
 	type: 'crime',
 	body: {
-		"size": 40,
+		"size": 500,
 		"query": {
 			"bool": {
 				"must": {
@@ -44,7 +44,17 @@ client.search({
 					}
 				}
 			}
-		}
+		},
+		  "sort": [
+    {
+      "_geo_distance": {
+        "geometry.coordinates" : [-2.849722, 53.333611],
+        "order":         "asc",
+        "unit":          "km", 
+        "distance_type": "plane" 
+      }
+    }
+  ]
 	}
 }, function (err, res) {
 	convert(res.hits.hits);
