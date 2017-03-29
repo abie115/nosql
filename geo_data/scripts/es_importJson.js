@@ -1,5 +1,4 @@
 var elasticsearch = require('elasticsearch');
-var fs = require('fs');
 var JSONStream = require('JSONStream');
 var es = require('event-stream');
 

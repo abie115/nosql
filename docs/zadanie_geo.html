@@ -190,6 +190,8 @@ $(document).ready(function () {
 <div id="elasticsearch" class="section level3">
 <h3>Elasticsearch</h3>
 <p>Do zadań z Elasticsearch użyłam JavaScript API.</p>
+ Skrypty wymagają pakietów: elasticsearch, stream, csv-streamify, JSONStream, event-stream:
+ <pre class="bash"><code>npm install nazwa_pakietu</code></pre>
 <p>Spakowany plik należy rozpakować do folderu.</p>
 <p> Skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_import.bat">es_import.bat</a>, który uruchamia trzy skrypty JavaScript:</p>
 <ul>
@@ -303,6 +305,8 @@ node es_query_geo3.js es_mapka3.geojson</code></pre>
 </div>
 <div id="postgresql" class="section level3">
 <h3>PostgreSQL</h3>
+ Skrypty .js wymagają pakietów: pg, json2csv, csv-streamify, JSONStream, stream:
+ <pre class="bash"><code>npm install nazwa_pakietu</code></pre>
 <p>Podobnie jak przy ElasticSearch, zbiór należy rozpakować do folderu.</p>
 <p> Skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_import.bat">pg_import.bat</a>, który uruchamia  
 <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/csvToJson.js">csvToJson.js</a> (konwertuje .csv do .json) oraz uruchamia
