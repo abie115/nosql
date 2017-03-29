@@ -122,7 +122,7 @@ $(document).ready(function () {
 <h4>Aldona Biewska</h4>
 <div id="przedstawienie-danych" class="section level3">
 <h3>Przedstawienie danych</h3>
-<p>Zbiór zawiera dane na temat przestępstw w Anglii z 5 oddziałów policji w regionie North West England w latach 2015-2016. Pobrane dane znajdują się w kilku folderach podzielonych na miesiące, w których znajdują się pliki csv odpowiadające każdemu oddziałowi. Spakowane zajmują 60.1MB, a rozpakowane 327 MB.</p>
+<p>Zbiór zawiera dane na temat przestępstw w Anglii z 5 oddziałów policji w regionie North West England w latach 2015-2016. Pobrane dane znajdują się w kilku folderach podzielonych na miesiące, w których znajdują się pliki .csv odpowiadające każdemu oddziałowi. Spakowane zajmują 60.1MB, a rozpakowane 327 MB.</p>
 <table style="width:93%;">
 <colgroup>
 <col width="19%"></col>
@@ -193,9 +193,9 @@ $(document).ready(function () {
 <p>Spakowany plik należy rozpakować do folderu.</p>
 <p> Skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_import.bat">es_import.bat</a>, który uruchamia trzy skrypty JavaScript:</p>
 <ul>
-<li><p>tworzy mapping dla indeksu db_crimes<a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_mapping.js">es_mapping.js</a></p></li>
-<li><p>konwertuje csv do json <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/csvToJson.js">csvToJson.js</a></p></li>
-<li><p>importuje do indeksu db_crimes przy pomocy bulk API <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_importJson.js">es_importJson.js</a></p></li>
+<li><p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_mapping.js">es_mapping.js</a> - tworzy mapping dla indeksu db_crimes </p></li>
+<li><p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/csvToJson.js">csvToJson.js</a> - konwertuje .csv do .json</p></li>
+<li><p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_importJson.js">es_importJson.js</a> - importuje do indeksu db_crimes przy pomocy bulk API </p></li>
 </ul>
 <pre class="bash"><code>@ECHO OFF
   node es_mapping.js
@@ -232,11 +232,12 @@ es_import_sample.bat sciezka_do_pliku_csv</code></pre>
         }
     }
 }</code></pre>
-<p> <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo1.js">Skrypt JS z zapytaniem i konwersją na geojson</a>, uruchamiamy w folderze ze skryptami:</p>
+
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka1.geojson"></script> 
+<p> <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo1.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami:</p>
 <pre class="bash"><code>cd geo_data/scripts
 node es_query_geo1.js es_mapka1.geojson
 </code></pre>
-<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka1.geojson"></script> 
 <br /> <br />
 <ol start="2" style="list-style-type: decimal">
 <li>Zapytanie z <em>geo_polygon</em>. Lokalizacja maksymalnie 1500 przestępstw na obszarze pięciokąta na terenie Manchesteru:</li>
@@ -266,10 +267,11 @@ node es_query_geo1.js es_mapka1.geojson
     }
 }
 </code></pre>
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo2.js">Skrypt JS z zapytaniem i konwersją na geojson</a>, uruchamiamy w folderze ze skryptami:</p>
+
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka2.geojson"></script>
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo2.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami:</p>
 <pre class="bash"><code>cd geo_data/scripts 
 node es_query_geo2.js es_mapka2.geojson</code></pre>
-<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka2.geojson"></script>
 <br /> <br />
 <ol start="3" style="list-style-type: decimal">
 <li>Zapytanie z <em>geo_bounding_box</em>. Lokalizacja przestępstw na podstawie wartości minimalnych i maksymalnych podanych jako współrzędne, które tworzą prostokąt na obaszarze Lake District National Park:</li>
@@ -292,16 +294,20 @@ node es_query_geo2.js es_mapka2.geojson</code></pre>
         }
     }
 }</code></pre>
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo3.js">Skrypt JS z zapytaniem i konwersją na geojson</a>, uruchamiamy w folderze ze skryptami:</p>
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka3.geojson"></script>
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo3.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami:</p>
 <pre class="bash"><code>cd geo_data/scripts/
 node es_query_geo3.js es_mapka3.geojson</code></pre>
-<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka3.geojson"></script>
+
 <p><br /> <br /></p>
 </div>
 <div id="postgresql" class="section level3">
 <h3>PostgreSQL</h3>
 <p>Podobnie jak przy ElasticSearch, zbiór należy rozpakować do folderu.</p>
-<p> Skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_import.bat">pg_import.bat</a>, który konwertuje csv do json <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/csvToJson.js">csvToJson.js</a> oraz za pomocą programu <a href="https://github.com/lukasmartinelli/pgfutter">pgfutter</a> importuje dane w formacie json do tymczasowej tabeli import.db_crimes:</p>
+<p> Skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_import.bat">pg_import.bat</a>, który uruchamia  
+<a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/csvToJson.js">csvToJson.js</a> (konwertuje .csv do .json) oraz uruchamia
+<a href="https://github.com/lukasmartinelli/pgfutter">pgfutter</a>, który importuje dane w formacie json do tymczasowej tabeli import.db_crimes </p>
+
 <pre class="bash"><code>@ECHO OFF
 for /r %1 %%f in (*.csv) do  type %%f | node csvToJson.js  | pgfutter --pass admin --table &quot;db_crimes&quot; json</code></pre>
 <p>pg_futter musi znajdować się w folderze ze skryptami, następne uruchamiamy skrypt importu:</p>
@@ -390,10 +396,11 @@ INSERT 0 1614639</code></pre>
         ST_MakePoint(-2.187,53.555)::geography, 700);</code></pre>
 <p>Aby zwizualizować obszar 700 metrów od podanego punktu, można wygenerować współrzędne takiego obszaru:</p>
 <pre class="sql"><code>SELECT  ST_AsGeoJSON(ST_Buffer(ST_MakePoint(-2.187,53.555)::geography,700)::geometry)::json AS geometry;</code></pre>
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo1.js">Skrypt JS z zapytaniami i konwersją na geojson</a>, uruchamiamy w folderze ze skryptami: </p>
+
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka1.geojson"></script> 
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo1.js">Skrypt JS z zapytaniami i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami: </p>
 <pre class="bash"><code>cd geo_data/scripts
 node pg_query_geo1.js pg_mapka1.geojson</code></pre>
-<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka1.geojson"></script> 
 <br /> <br />
 <ol start="2" style="list-style-type: decimal">
 <li>Lokalizacja przestępstw związanych z narkotykami w prostokątnym obszarze na terenie Ainsdale, stworzonym na podstawie podanych wartości minimalnych i maksymalnych szerokości oraz długości geograficznej:</li>
@@ -401,10 +408,11 @@ node pg_query_geo1.js pg_mapka1.geojson</code></pre>
 <pre class="sql"><code>SELECT crime_type, reported_by, month, location, lsoa_name, ST_AsGeoJSON(geom)::json AS geometry FROM  mydb.crime 
  WHERE geom &amp;&amp; ST_MakeEnvelope(-3.0744552612304688,53.585168439492456,-3.0099105834960938,53.62020849015501)::geography 
  AND crime_type LIKE 'Drugs';</code></pre>
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo2.js">Skrypt JS z zapytaniami i konwersją na geojson</a>, uruchamiamy w folderze ze skryptami: </p>
+
+<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka2.geojson"></script>
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo2.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami: </p>
 <pre class="bash"><code>cd geo_data/scripts
 node pg_query_geo2.js pg_mapka2.geojson</code></pre>
-<script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka2.geojson"></script>
 </div>
 </div>
 
