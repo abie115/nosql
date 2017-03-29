@@ -211,7 +211,7 @@ es_import.bat sciezka_do_folderu_z_danymi</code></pre>
 <p>Sprawdzam liczbę zaimportowanych obiektów:</p>
 <pre class="bash"><code> curl -XGET 'http://localhost:9200/db_crimes/_count'
  {&quot;count&quot;:1614639,&quot;_shards&quot;:{&quot;total&quot;:5,&quot;successful&quot;:5,&quot;failed&quot;:0}}</code></pre>
-<p>Dla <a href="https://github.com/abie115/nosql/tree/master/geo_data/crimes_sample.csv">próbki danych</a> należy uruchomić skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_import_sample.bat">es_import_sample.bat</a>:</p>
+<p>Dla <a href="https://github.com/abie115/nosql/tree/master/crimes_sample.csv">próbki danych</a> należy uruchomić skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_import_sample.bat">es_import_sample.bat</a>:</p>
 <pre class="bash"><code>cd geo_data/scripts
 es_import_sample.bat sciezka_do_pliku_csv</code></pre>
 <p><br /></p>
