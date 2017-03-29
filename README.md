@@ -3,6 +3,7 @@
 Wybrany zbiór danych: [Crime data: police forces in North West England 2015-2016](https://data.police.uk/data/fetch/5c61c82a-d588-4251-b1fc-07d6bc386c11/)
 
 [Zadanie Geo](https://abie115.github.io/nosql/zadanie_geo)
+
 [Zadanie 1](https://abie115.github.io/nosql/zadanie1)
 
 (zaliczenie)
