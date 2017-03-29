@@ -236,7 +236,7 @@ es_import_sample.bat sciezka_do_pliku_csv</code></pre>
 }</code></pre>
 
 <script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka1.geojson"></script> 
-<p> <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo1.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami:</p>
+<p> <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo1.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, należy uruchomić w folderze ze skryptami:</p>
 <pre class="bash"><code>cd geo_data/scripts
 node es_query_geo1.js es_mapka1.geojson
 </code></pre>
@@ -271,7 +271,7 @@ node es_query_geo1.js es_mapka1.geojson
 </code></pre>
 
 <script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka2.geojson"></script>
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo2.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami:</p>
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo2.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, należy uruchomić w folderze ze skryptami:</p>
 <pre class="bash"><code>cd geo_data/scripts 
 node es_query_geo2.js es_mapka2.geojson</code></pre>
 <br /> <br />
@@ -297,7 +297,7 @@ node es_query_geo2.js es_mapka2.geojson</code></pre>
     }
 }</code></pre>
 <script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/es_mapka3.geojson"></script>
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo3.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami:</p>
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_query_geo3.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, należy uruchomić w folderze ze skryptami:</p>
 <pre class="bash"><code>cd geo_data/scripts/
 node es_query_geo3.js es_mapka3.geojson</code></pre>
 
@@ -314,12 +314,12 @@ node es_query_geo3.js es_mapka3.geojson</code></pre>
 
 <pre class="bash"><code>@ECHO OFF
 for /r %1 %%f in (*.csv) do  type %%f | node csvToJson.js  | pgfutter --pass admin --table &quot;db_crimes&quot; json</code></pre>
-<p>pg_futter musi znajdować się w folderze ze skryptami, następne uruchamiamy skrypt importu:</p>
+<p>pg_futter musi znajdować się w folderze ze skryptami, następne należy uruchomić skrypt importu:</p>
 <pre class="bash"><code>cd geo_data/scripts
 pg_import.bat sciezka_do_folderu_z_danymi</code></pre>
 <p>Całkowity czas wykonania skryptu to: 4min 14s. </p>
 <p>Czas samego importu to: 1min 30s.</p>
-<p>Dla <a href="https://github.com/abie115/nosql/tree/master/geo_data/crimes_sample.csv">próbki danych</a> należy uruchomić skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_import_sample.bat">pg_import_sample.bat</a>:</p>
+<p>Dla <a href="https://github.com/abie115/nosql/tree/master/crimes_sample.csv">próbki danych</a> należy uruchomić skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_import_sample.bat">pg_import_sample.bat</a>:</p>
 <pre class="bash"><code>cd geo_data/scripts
 pg_import_sample.bat sciezka_do_pliku_csv</code></pre>
 <p>Aby móc tworzyć geospatial queries należy zainstalować pakiet <a href="http://postgis.net/install/">PostGis</a> do PostgreSQL.</p>
@@ -340,7 +340,7 @@ pg_import_sample.bat sciezka_do_pliku_csv</code></pre>
 CREATE INDEX crime_gix
   ON mydb.crime 
   USING GIST (geom); </code></pre>
-<p>Należy dodać wcześniej zaimportowane dane do tabeli:</p>
+<p>Dodanie wcześniej zaimportowanych danych do tabeli:</p>
 <pre class="sql"><code>INSERT INTO mydb.crime(crime_type,reported_by,lsoa_name,location,month,last_outcome_category,geom)
 SELECT  
   (data-&gt;&gt;'crime_type')::varchar as crime_type,
@@ -402,7 +402,7 @@ INSERT 0 1614639</code></pre>
 <pre class="sql"><code>SELECT  ST_AsGeoJSON(ST_Buffer(ST_MakePoint(-2.187,53.555)::geography,700)::geometry)::json AS geometry;</code></pre>
 
 <script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka1.geojson"></script> 
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo1.js">Skrypt JS z zapytaniami i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami: </p>
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo1.js">Skrypt JS z zapytaniami i konwersją na .geojson</a>, należy uruchomić w folderze ze skryptami: </p>
 <pre class="bash"><code>cd geo_data/scripts
 node pg_query_geo1.js pg_mapka1.geojson</code></pre>
 <br /> <br />
@@ -414,7 +414,7 @@ node pg_query_geo1.js pg_mapka1.geojson</code></pre>
  AND crime_type LIKE 'Drugs';</code></pre>
 
 <script src="https://embed.github.com/view/geojson/abie115/nosql/master/geo_data/maps/pg_mapka2.geojson"></script>
-<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo2.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, uruchamiamy w folderze ze skryptami: </p>
+<p><a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_query_geo2.js">Skrypt JS z zapytaniem i konwersją na .geojson</a>, należy uruchomić w folderze ze skryptami: </p>
 <pre class="bash"><code>cd geo_data/scripts
 node pg_query_geo2.js pg_mapka2.geojson</code></pre>
 </div>
