@@ -182,7 +182,7 @@ $(document).ready(function () {
         &quot;coordinates&quot;: [-2.98218, 53.311969]
     }
 }</code></pre>
-<p>Próbka danych <a href="https://github.com/abie115/nosql/tree/master/geo_data/crimes_sample.csv">crimes_sample.csv</a>, stworzona za pomocą <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/getSample.js">skryptu</a>.</p>
+<p>Próbka danych <a href="https://github.com/abie115/nosql/tree/master/crimes_sample.csv">crimes_sample.csv</a>, stworzona za pomocą <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/getSample.js">skryptu</a>.</p>
 </div>
 <div id="zadanie-geo" class="section level2">
 <h2>ZADANIE GEO</h2>
@@ -193,9 +193,9 @@ $(document).ready(function () {
 <p>Spakowany plik należy rozpakować do folderu.</p>
 <p> Skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_import.bat">es_import.bat</a>, który uruchamia trzy skrypty JavaScript:</p>
 <ul>
-<li><p>tworzy mapping <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_mapping.js">es_mapping.js</a></p></li>
+<li><p>tworzy mapping dla indeksu db_crimes<a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_mapping.js">es_mapping.js</a></p></li>
 <li><p>konwertuje csv do json <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/csvToJson.js">csvToJson.js</a></p></li>
-<li><p>importuje do bazy <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_importJson.js">es_importJson.js</a></p></li>
+<li><p>importuje do indeksu db_crimes przy pomocy bulk API <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/es_importJson.js">es_importJson.js</a></p></li>
 </ul>
 <pre class="bash"><code>@ECHO OFF
   node es_mapping.js
@@ -308,7 +308,7 @@ for /r %1 %%f in (*.csv) do  type %%f | node csvToJson.js  | pgfutter --pass adm
 <pre class="bash"><code>cd geo_data/scripts
 pg_import.bat sciezka_do_folderu_z_danymi</code></pre>
 <p>Całkowity czas wykonania skryptu to: 4min 14s. </p>
-<p>Czas samego importu to: 2min.</p>
+<p>Czas samego importu to: 1min 30s.</p>
 <p>Dla <a href="https://github.com/abie115/nosql/tree/master/geo_data/crimes_sample.csv">próbki danych</a> należy uruchomić skrypt <a href="https://github.com/abie115/nosql/tree/master/geo_data/scripts/pg_import_sample.bat">pg_import_sample.bat</a>:</p>
 <pre class="bash"><code>cd geo_data/scripts
 pg_import_sample.bat sciezka_do_pliku_csv</code></pre>
